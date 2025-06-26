@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "nama_produk": "Eco Kursi 0001",
+    "kategori": "Elektronik",
+    "harga": 6523369.99,
+    "stok": 499,
+    "berat_gram": 11917,
+    "deskripsi": "Deskripsi singkat untuk Eco Kursi 0001 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 2,
+    "nama_produk": "Maxi Jam 0002",
+    "kategori": "Buku",
+    "harga": 14356538.68,
+    "stok": 262,
+    "berat_gram": 15099,
+    "deskripsi": "Deskripsi singkat untuk Maxi Jam 0002 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 3,
+    "nama_produk": "Smart Headphone 0003",
+    "kategori": "Hiburan",
+    "harga": 9984901.95,
+    "stok": 378,
+    "berat_gram": 5688,
+    "deskripsi": "Deskripsi singkat untuk Smart Headphone 0003 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 4,
+    "nama_produk": "Classic Meja 0004",
+    "kategori": "Otomotif",
+    "harga": 8073451.44,
+    "stok": 450,
+    "berat_gram": 17178,
+    "deskripsi": "Deskripsi singkat untuk Classic Meja 0004 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 5,
+    "nama_produk": "Eco Headphone 0005",
+    "kategori": "Fashion Anak",
+    "harga": 6710029.22,
+    "stok": 204,
+    "berat_gram": 366,
+    "deskripsi": "Deskripsi singkat untuk Eco Headphone 0005 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 6,
+    "nama_produk": "Modern Printer 0006",
+    "kategori": "Elektronik",
+    "harga": 8824165.44,
+    "stok": 289,
+    "berat_gram": 1972,
+    "deskripsi": "Deskripsi singkat untuk Modern Printer 0006 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 7,
+    "nama_produk": "Eco Phone 0007",
+    "kategori": "Fashion Pria",
+    "harga": 2925052.25,
+    "stok": 415,
+    "berat_gram": 6508,
+    "deskripsi": "Deskripsi singkat untuk Eco Phone 0007 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 8,
+    "nama_produk": "Premium Kopi 0008",
+    "kategori": "Hiburan",
+    "harga": 9800981.8,
+    "stok": 480,
+    "berat_gram": 2388,
+    "deskripsi": "Deskripsi singkat untuk Premium Kopi 0008 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 9,
+    "nama_produk": "Maxi Kopi 0009",
+    "kategori": "Fashion Wanita",
+    "harga": 5047777.76,
+    "stok": 158,
+    "berat_gram": 17511,
+    "deskripsi": "Deskripsi singkat untuk Maxi Kopi 0009 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 10,
+    "nama_produk": "Vintage Kopi 0010",
+    "kategori": "Rumah Tangga",
+    "harga": 14471041.16,
+    "stok": 221,
+    "berat_gram": 390,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kopi 0010 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 11,
+    "nama_produk": "Vintage Kopi 0011",
+    "kategori": "Fashion Pria",
+    "harga": 6703759.93,
+    "stok": 330,
+    "berat_gram": 10804,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kopi 0011 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 12,
+    "nama_produk": "Maxi Drone 0012",
+    "kategori": "Hiburan",
+    "harga": 100391.86,
+    "stok": 292,
+    "berat_gram": 1944,
+    "deskripsi": "Deskripsi singkat untuk Maxi Drone 0012 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 13,
+    "nama_produk": "Vintage Meja 0013",
+    "kategori": "Makanan & Minuman",
+    "harga": 13999172.09,
+    "stok": 77,
+    "berat_gram": 10785,
+    "deskripsi": "Deskripsi singkat untuk Vintage Meja 0013 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 14,
+    "nama_produk": "Premium Meja 0014",
+    "kategori": "Fashion Pria",
+    "harga": 9346236.11,
+    "stok": 360,
+    "berat_gram": 1517,
+    "deskripsi": "Deskripsi singkat untuk Premium Meja 0014 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 15,
+    "nama_produk": "Vintage Tas 0015",
+    "kategori": "Fashion Pria",
+    "harga": 3514698.44,
+    "stok": 381,
+    "berat_gram": 16398,
+    "deskripsi": "Deskripsi singkat untuk Vintage Tas 0015 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 16,
+    "nama_produk": "Maxi Jam 0016",
+    "kategori": "Kecantikan",
+    "harga": 1593358.11,
+    "stok": 369,
+    "berat_gram": 17119,
+    "deskripsi": "Deskripsi singkat untuk Maxi Jam 0016 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 17,
+    "nama_produk": "Pro Buku 0017",
+    "kategori": "Fashion Pria",
+    "harga": 1122859.09,
+    "stok": 182,
+    "berat_gram": 19265,
+    "deskripsi": "Deskripsi singkat untuk Pro Buku 0017 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 18,
+    "nama_produk": "Pro Sepatu 0018",
+    "kategori": "Hiburan",
+    "harga": 2368994.28,
+    "stok": 103,
+    "berat_gram": 6105,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0018 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 19,
+    "nama_produk": "Mini Buku 0019",
+    "kategori": "Olahraga",
+    "harga": 10957275.01,
+    "stok": 148,
+    "berat_gram": 14004,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0019 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 20,
+    "nama_produk": "Pro Printer 0020",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 4978836.44,
+    "stok": 443,
+    "berat_gram": 1565,
+    "deskripsi": "Deskripsi singkat untuk Pro Printer 0020 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 21,
+    "nama_produk": "Pro Sepatu 0021",
+    "kategori": "Kecantikan",
+    "harga": 6550277.55,
+    "stok": 496,
+    "berat_gram": 7105,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0021 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 22,
+    "nama_produk": "Eco Printer 0022",
+    "kategori": "Rumah Tangga",
+    "harga": 855367.09,
+    "stok": 345,
+    "berat_gram": 6042,
+    "deskripsi": "Deskripsi singkat untuk Eco Printer 0022 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 23,
+    "nama_produk": "Gaming TV 0023",
+    "kategori": "Fashion Anak",
+    "harga": 10317137.58,
+    "stok": 8,
+    "berat_gram": 9372,
+    "deskripsi": "Deskripsi singkat untuk Gaming TV 0023 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 24,
+    "nama_produk": "Maxi Kamera 0024",
+    "kategori": "Hiburan",
+    "harga": 5510574.44,
+    "stok": 273,
+    "berat_gram": 4993,
+    "deskripsi": "Deskripsi singkat untuk Maxi Kamera 0024 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 25,
+    "nama_produk": "Eco Headphone 0025",
+    "kategori": "Otomotif",
+    "harga": 8312119.26,
+    "stok": 437,
+    "berat_gram": 18442,
+    "deskripsi": "Deskripsi singkat untuk Eco Headphone 0025 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 26,
+    "nama_produk": "Pro Sepatu 0026",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 8620813.56,
+    "stok": 347,
+    "berat_gram": 11095,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0026 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 27,
+    "nama_produk": "Eco Phone 0027",
+    "kategori": "Makanan & Minuman",
+    "harga": 12420299.87,
+    "stok": 74,
+    "berat_gram": 18816,
+    "deskripsi": "Deskripsi singkat untuk Eco Phone 0027 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 28,
+    "nama_produk": "Vintage Kamera 0028",
+    "kategori": "Olahraga",
+    "harga": 192663.87,
+    "stok": 261,
+    "berat_gram": 3319,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kamera 0028 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 29,
+    "nama_produk": "Wireless TV 0029",
+    "kategori": "Rumah Tangga",
+    "harga": 11127427.65,
+    "stok": 86,
+    "berat_gram": 4846,
+    "deskripsi": "Deskripsi singkat untuk Wireless TV 0029 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 30,
+    "nama_produk": "Mini Drone 0030",
+    "kategori": "Mainan & Hobi",
+    "harga": 6714881.23,
+    "stok": 59,
+    "berat_gram": 10630,
+    "deskripsi": "Deskripsi singkat untuk Mini Drone 0030 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 31,
+    "nama_produk": "Mini Printer 0031",
+    "kategori": "Fashion Wanita",
+    "harga": 13429322.54,
+    "stok": 216,
+    "berat_gram": 3229,
+    "deskripsi": "Deskripsi singkat untuk Mini Printer 0031 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 32,
+    "nama_produk": "Mini Headphone 0032",
+    "kategori": "Elektronik",
+    "harga": 361575.52,
+    "stok": 288,
+    "berat_gram": 2373,
+    "deskripsi": "Deskripsi singkat untuk Mini Headphone 0032 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 33,
+    "nama_produk": "Eco Kursi 0033",
+    "kategori": "Kecantikan",
+    "harga": 11201101.56,
+    "stok": 264,
+    "berat_gram": 2942,
+    "deskripsi": "Deskripsi singkat untuk Eco Kursi 0033 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 34,
+    "nama_produk": "Smart Kopi 0034",
+    "kategori": "Makanan & Minuman",
+    "harga": 8321237.12,
+    "stok": 42,
+    "berat_gram": 9099,
+    "deskripsi": "Deskripsi singkat untuk Smart Kopi 0034 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 35,
+    "nama_produk": "Pro Jaket 0035",
+    "kategori": "Rumah Tangga",
+    "harga": 14154802.34,
+    "stok": 283,
+    "berat_gram": 6972,
+    "deskripsi": "Deskripsi singkat untuk Pro Jaket 0035 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 36,
+    "nama_produk": "Modern Buku 0036",
+    "kategori": "Perhiasan",
+    "harga": 11584129.12,
+    "stok": 323,
+    "berat_gram": 19867,
+    "deskripsi": "Deskripsi singkat untuk Modern Buku 0036 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 37,
+    "nama_produk": "Classic Kamera 0037",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 5883433.42,
+    "stok": 88,
+    "berat_gram": 19038,
+    "deskripsi": "Deskripsi singkat untuk Classic Kamera 0037 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 38,
+    "nama_produk": "Smart TV 0038",
+    "kategori": "Elektronik",
+    "harga": 468917.82,
+    "stok": 81,
+    "berat_gram": 7824,
+    "deskripsi": "Deskripsi singkat untuk Smart TV 0038 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 39,
+    "nama_produk": "Premium Kopi 0039",
+    "kategori": "Otomotif",
+    "harga": 2579470.7,
+    "stok": 265,
+    "berat_gram": 12748,
+    "deskripsi": "Deskripsi singkat untuk Premium Kopi 0039 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 40,
+    "nama_produk": "Maxi Jaket 0040",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 2893712.53,
+    "stok": 167,
+    "berat_gram": 8442,
+    "deskripsi": "Deskripsi singkat untuk Maxi Jaket 0040 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 41,
+    "nama_produk": "Mini Kursi 0041",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 1067462.77,
+    "stok": 96,
+    "berat_gram": 5775,
+    "deskripsi": "Deskripsi singkat untuk Mini Kursi 0041 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 42,
+    "nama_produk": "Wireless Kursi 0042",
+    "kategori": "Makanan & Minuman",
+    "harga": 1090698.34,
+    "stok": 308,
+    "berat_gram": 12488,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kursi 0042 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 43,
+    "nama_produk": "Classic Headphone 0043",
+    "kategori": "Hiburan",
+    "harga": 11145912.35,
+    "stok": 438,
+    "berat_gram": 7313,
+    "deskripsi": "Deskripsi singkat untuk Classic Headphone 0043 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 44,
+    "nama_produk": "Premium Kopi 0044",
+    "kategori": "Fashion Anak",
+    "harga": 13827322.73,
+    "stok": 22,
+    "berat_gram": 19104,
+    "deskripsi": "Deskripsi singkat untuk Premium Kopi 0044 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 45,
+    "nama_produk": "Smart Jam 0045",
+    "kategori": "Otomotif",
+    "harga": 1214010.18,
+    "stok": 38,
+    "berat_gram": 2008,
+    "deskripsi": "Deskripsi singkat untuk Smart Jam 0045 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 46,
+    "nama_produk": "Wireless Jaket 0046",
+    "kategori": "Otomotif",
+    "harga": 11881989.69,
+    "stok": 174,
+    "berat_gram": 14064,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jaket 0046 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 47,
+    "nama_produk": "Modern Kamera 0047",
+    "kategori": "Fashion Pria",
+    "harga": 7179051.43,
+    "stok": 16,
+    "berat_gram": 19732,
+    "deskripsi": "Deskripsi singkat untuk Modern Kamera 0047 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 48,
+    "nama_produk": "Vintage Sepatu 0048",
+    "kategori": "Rumah Tangga",
+    "harga": 476645.24,
+    "stok": 386,
+    "berat_gram": 10909,
+    "deskripsi": "Deskripsi singkat untuk Vintage Sepatu 0048 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 49,
+    "nama_produk": "Mini Headphone 0049",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 7614890.13,
+    "stok": 471,
+    "berat_gram": 13464,
+    "deskripsi": "Deskripsi singkat untuk Mini Headphone 0049 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 50,
+    "nama_produk": "Mini Jaket 0050",
+    "kategori": "Makanan & Minuman",
+    "harga": 6481991.77,
+    "stok": 104,
+    "berat_gram": 369,
+    "deskripsi": "Deskripsi singkat untuk Mini Jaket 0050 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 51,
+    "nama_produk": "Mini Tas 0051",
+    "kategori": "Fashion Wanita",
+    "harga": 14504277.64,
+    "stok": 81,
+    "berat_gram": 16629,
+    "deskripsi": "Deskripsi singkat untuk Mini Tas 0051 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 52,
+    "nama_produk": "Vintage Printer 0052",
+    "kategori": "Rumah Tangga",
+    "harga": 1426578.16,
+    "stok": 179,
+    "berat_gram": 9527,
+    "deskripsi": "Deskripsi singkat untuk Vintage Printer 0052 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 53,
+    "nama_produk": "Premium Phone 0053",
+    "kategori": "Elektronik",
+    "harga": 4707372.6,
+    "stok": 389,
+    "berat_gram": 10879,
+    "deskripsi": "Deskripsi singkat untuk Premium Phone 0053 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 54,
+    "nama_produk": "Premium Sepatu 0054",
+    "kategori": "Hiburan",
+    "harga": 4170459.22,
+    "stok": 461,
+    "berat_gram": 3756,
+    "deskripsi": "Deskripsi singkat untuk Premium Sepatu 0054 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 55,
+    "nama_produk": "Maxi Buku 0055",
+    "kategori": "Fashion Anak",
+    "harga": 2269592.1,
+    "stok": 451,
+    "berat_gram": 2593,
+    "deskripsi": "Deskripsi singkat untuk Maxi Buku 0055 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 56,
+    "nama_produk": "Classic Meja 0056",
+    "kategori": "Fashion Pria",
+    "harga": 11446291.49,
+    "stok": 254,
+    "berat_gram": 15107,
+    "deskripsi": "Deskripsi singkat untuk Classic Meja 0056 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 57,
+    "nama_produk": "Pro TV 0057",
+    "kategori": "Buku",
+    "harga": 10931111.54,
+    "stok": 242,
+    "berat_gram": 10562,
+    "deskripsi": "Deskripsi singkat untuk Pro TV 0057 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 58,
+    "nama_produk": "Premium Phone 0058",
+    "kategori": "Mainan & Hobi",
+    "harga": 14343015.8,
+    "stok": 286,
+    "berat_gram": 12315,
+    "deskripsi": "Deskripsi singkat untuk Premium Phone 0058 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 59,
+    "nama_produk": "Premium Printer 0059",
+    "kategori": "Hiburan",
+    "harga": 13504323.0,
+    "stok": 155,
+    "berat_gram": 8119,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0059 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 60,
+    "nama_produk": "Eco Jaket 0060",
+    "kategori": "Perhiasan",
+    "harga": 6156158.5,
+    "stok": 101,
+    "berat_gram": 2611,
+    "deskripsi": "Deskripsi singkat untuk Eco Jaket 0060 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 61,
+    "nama_produk": "Premium Buku 0061",
+    "kategori": "Makanan & Minuman",
+    "harga": 922078.77,
+    "stok": 389,
+    "berat_gram": 1578,
+    "deskripsi": "Deskripsi singkat untuk Premium Buku 0061 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 62,
+    "nama_produk": "Mini Phone 0062",
+    "kategori": "Fashion Anak",
+    "harga": 6034624.91,
+    "stok": 276,
+    "berat_gram": 17936,
+    "deskripsi": "Deskripsi singkat untuk Mini Phone 0062 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 63,
+    "nama_produk": "Classic Kamera 0063",
+    "kategori": "Buku",
+    "harga": 7261824.91,
+    "stok": 316,
+    "berat_gram": 19262,
+    "deskripsi": "Deskripsi singkat untuk Classic Kamera 0063 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 64,
+    "nama_produk": "Classic Kopi 0064",
+    "kategori": "Olahraga",
+    "harga": 3107419.69,
+    "stok": 436,
+    "berat_gram": 1618,
+    "deskripsi": "Deskripsi singkat untuk Classic Kopi 0064 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 65,
+    "nama_produk": "Modern Jaket 0065",
+    "kategori": "Hiburan",
+    "harga": 11638860.84,
+    "stok": 205,
+    "berat_gram": 17589,
+    "deskripsi": "Deskripsi singkat untuk Modern Jaket 0065 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 66,
+    "nama_produk": "Vintage Jam 0066",
+    "kategori": "Fashion Wanita",
+    "harga": 10177266.87,
+    "stok": 104,
+    "berat_gram": 5060,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jam 0066 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 67,
+    "nama_produk": "Smart Jaket 0067",
+    "kategori": "Olahraga",
+    "harga": 5145182.65,
+    "stok": 47,
+    "berat_gram": 18895,
+    "deskripsi": "Deskripsi singkat untuk Smart Jaket 0067 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 68,
+    "nama_produk": "Modern Meja 0068",
+    "kategori": "Kecantikan",
+    "harga": 788779.82,
+    "stok": 210,
+    "berat_gram": 9169,
+    "deskripsi": "Deskripsi singkat untuk Modern Meja 0068 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 69,
+    "nama_produk": "Classic Kopi 0069",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 1728050.62,
+    "stok": 378,
+    "berat_gram": 17887,
+    "deskripsi": "Deskripsi singkat untuk Classic Kopi 0069 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 70,
+    "nama_produk": "Pro Headphone 0070",
+    "kategori": "Perhiasan",
+    "harga": 2884830.22,
+    "stok": 102,
+    "berat_gram": 7096,
+    "deskripsi": "Deskripsi singkat untuk Pro Headphone 0070 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 71,
+    "nama_produk": "Maxi Headphone 0071",
+    "kategori": "Fashion Pria",
+    "harga": 10152755.33,
+    "stok": 102,
+    "berat_gram": 12301,
+    "deskripsi": "Deskripsi singkat untuk Maxi Headphone 0071 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 72,
+    "nama_produk": "Mini Printer 0072",
+    "kategori": "Fashion Pria",
+    "harga": 9919792.61,
+    "stok": 461,
+    "berat_gram": 2058,
+    "deskripsi": "Deskripsi singkat untuk Mini Printer 0072 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 73,
+    "nama_produk": "Eco Headphone 0073",
+    "kategori": "Fashion Wanita",
+    "harga": 10240725.31,
+    "stok": 374,
+    "berat_gram": 1379,
+    "deskripsi": "Deskripsi singkat untuk Eco Headphone 0073 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 74,
+    "nama_produk": "Wireless Sepatu 0074",
+    "kategori": "Olahraga",
+    "harga": 11144223.02,
+    "stok": 325,
+    "berat_gram": 4543,
+    "deskripsi": "Deskripsi singkat untuk Wireless Sepatu 0074 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 75,
+    "nama_produk": "Premium Tas 0075",
+    "kategori": "Mainan & Hobi",
+    "harga": 11111393.71,
+    "stok": 379,
+    "berat_gram": 14658,
+    "deskripsi": "Deskripsi singkat untuk Premium Tas 0075 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 76,
+    "nama_produk": "Mini Jam 0076",
+    "kategori": "Buku",
+    "harga": 11628119.69,
+    "stok": 339,
+    "berat_gram": 15813,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0076 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 77,
+    "nama_produk": "Modern Sepatu 0077",
+    "kategori": "Otomotif",
+    "harga": 13510806.95,
+    "stok": 105,
+    "berat_gram": 1390,
+    "deskripsi": "Deskripsi singkat untuk Modern Sepatu 0077 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 78,
+    "nama_produk": "Pro Drone 0078",
+    "kategori": "Rumah Tangga",
+    "harga": 8075266.31,
+    "stok": 366,
+    "berat_gram": 6243,
+    "deskripsi": "Deskripsi singkat untuk Pro Drone 0078 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 79,
+    "nama_produk": "Maxi Kamera 0079",
+    "kategori": "Hiburan",
+    "harga": 10493652.75,
+    "stok": 269,
+    "berat_gram": 1745,
+    "deskripsi": "Deskripsi singkat untuk Maxi Kamera 0079 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 80,
+    "nama_produk": "Smart Headphone 0080",
+    "kategori": "Elektronik",
+    "harga": 13290497.92,
+    "stok": 123,
+    "berat_gram": 13816,
+    "deskripsi": "Deskripsi singkat untuk Smart Headphone 0080 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 81,
+    "nama_produk": "Eco Drone 0081",
+    "kategori": "Otomotif",
+    "harga": 8939254.75,
+    "stok": 288,
+    "berat_gram": 14781,
+    "deskripsi": "Deskripsi singkat untuk Eco Drone 0081 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 82,
+    "nama_produk": "Gaming Buku 0082",
+    "kategori": "Hiburan",
+    "harga": 1428058.41,
+    "stok": 376,
+    "berat_gram": 19223,
+    "deskripsi": "Deskripsi singkat untuk Gaming Buku 0082 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 83,
+    "nama_produk": "Vintage Headphone 0083",
+    "kategori": "Hiburan",
+    "harga": 528676.53,
+    "stok": 493,
+    "berat_gram": 3692,
+    "deskripsi": "Deskripsi singkat untuk Vintage Headphone 0083 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 84,
+    "nama_produk": "Eco Meja 0084",
+    "kategori": "Olahraga",
+    "harga": 12736046.6,
+    "stok": 120,
+    "berat_gram": 5685,
+    "deskripsi": "Deskripsi singkat untuk Eco Meja 0084 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 85,
+    "nama_produk": "Mini Buku 0085",
+    "kategori": "Kesehatan",
+    "harga": 10422017.96,
+    "stok": 53,
+    "berat_gram": 4904,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0085 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 86,
+    "nama_produk": "Pro Buku 0086",
+    "kategori": "Olahraga",
+    "harga": 11168324.1,
+    "stok": 406,
+    "berat_gram": 7480,
+    "deskripsi": "Deskripsi singkat untuk Pro Buku 0086 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 87,
+    "nama_produk": "Maxi Sepatu 0087",
+    "kategori": "Hiburan",
+    "harga": 7720975.63,
+    "stok": 331,
+    "berat_gram": 19843,
+    "deskripsi": "Deskripsi singkat untuk Maxi Sepatu 0087 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 88,
+    "nama_produk": "Mini Jaket 0088",
+    "kategori": "Fashion Anak",
+    "harga": 6016353.42,
+    "stok": 133,
+    "berat_gram": 4669,
+    "deskripsi": "Deskripsi singkat untuk Mini Jaket 0088 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 89,
+    "nama_produk": "Gaming Sepatu 0089",
+    "kategori": "Fashion Wanita",
+    "harga": 4932896.16,
+    "stok": 500,
+    "berat_gram": 19216,
+    "deskripsi": "Deskripsi singkat untuk Gaming Sepatu 0089 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 90,
+    "nama_produk": "Premium Headphone 0090",
+    "kategori": "Rumah Tangga",
+    "harga": 11916291.67,
+    "stok": 422,
+    "berat_gram": 12080,
+    "deskripsi": "Deskripsi singkat untuk Premium Headphone 0090 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 91,
+    "nama_produk": "Premium Sepatu 0091",
+    "kategori": "Fashion Pria",
+    "harga": 3218378.42,
+    "stok": 332,
+    "berat_gram": 10221,
+    "deskripsi": "Deskripsi singkat untuk Premium Sepatu 0091 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 92,
+    "nama_produk": "Gaming Tas 0092",
+    "kategori": "Kesehatan",
+    "harga": 11940633.97,
+    "stok": 378,
+    "berat_gram": 4806,
+    "deskripsi": "Deskripsi singkat untuk Gaming Tas 0092 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 93,
+    "nama_produk": "Pro Kamera 0093",
+    "kategori": "Mainan & Hobi",
+    "harga": 9232766.34,
+    "stok": 312,
+    "berat_gram": 13672,
+    "deskripsi": "Deskripsi singkat untuk Pro Kamera 0093 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 94,
+    "nama_produk": "Pro Jam 0094",
+    "kategori": "Makanan & Minuman",
+    "harga": 1957954.11,
+    "stok": 496,
+    "berat_gram": 11817,
+    "deskripsi": "Deskripsi singkat untuk Pro Jam 0094 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 95,
+    "nama_produk": "Wireless Kursi 0095",
+    "kategori": "Elektronik",
+    "harga": 10900821.76,
+    "stok": 477,
+    "berat_gram": 6636,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kursi 0095 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 96,
+    "nama_produk": "Maxi Drone 0096",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 6683346.03,
+    "stok": 276,
+    "berat_gram": 17186,
+    "deskripsi": "Deskripsi singkat untuk Maxi Drone 0096 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 97,
+    "nama_produk": "Wireless Buku 0097",
+    "kategori": "Rumah Tangga",
+    "harga": 14861021.08,
+    "stok": 128,
+    "berat_gram": 12765,
+    "deskripsi": "Deskripsi singkat untuk Wireless Buku 0097 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 98,
+    "nama_produk": "Mini Meja 0098",
+    "kategori": "Fashion Wanita",
+    "harga": 2853469.41,
+    "stok": 227,
+    "berat_gram": 12548,
+    "deskripsi": "Deskripsi singkat untuk Mini Meja 0098 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 99,
+    "nama_produk": "Classic TV 0099",
+    "kategori": "Elektronik",
+    "harga": 8846292.25,
+    "stok": 413,
+    "berat_gram": 6754,
+    "deskripsi": "Deskripsi singkat untuk Classic TV 0099 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 100,
+    "nama_produk": "Vintage Kamera 0100",
+    "kategori": "Otomotif",
+    "harga": 5150878.2,
+    "stok": 386,
+    "berat_gram": 15736,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kamera 0100 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 101,
+    "nama_produk": "Gaming Kursi 0101",
+    "kategori": "Kecantikan",
+    "harga": 8558758.24,
+    "stok": 344,
+    "berat_gram": 10991,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kursi 0101 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 102,
+    "nama_produk": "Premium Sepatu 0102",
+    "kategori": "Mainan & Hobi",
+    "harga": 9071413.36,
+    "stok": 219,
+    "berat_gram": 3317,
+    "deskripsi": "Deskripsi singkat untuk Premium Sepatu 0102 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 103,
+    "nama_produk": "Modern Kopi 0103",
+    "kategori": "Fashion Wanita",
+    "harga": 375144.8,
+    "stok": 492,
+    "berat_gram": 3940,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0103 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 104,
+    "nama_produk": "Eco Headphone 0104",
+    "kategori": "Fashion Wanita",
+    "harga": 6462068.67,
+    "stok": 274,
+    "berat_gram": 15025,
+    "deskripsi": "Deskripsi singkat untuk Eco Headphone 0104 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 105,
+    "nama_produk": "Premium Headphone 0105",
+    "kategori": "Fashion Anak",
+    "harga": 8156765.45,
+    "stok": 291,
+    "berat_gram": 1008,
+    "deskripsi": "Deskripsi singkat untuk Premium Headphone 0105 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 106,
+    "nama_produk": "Vintage Meja 0106",
+    "kategori": "Kesehatan",
+    "harga": 270415.35,
+    "stok": 87,
+    "berat_gram": 18347,
+    "deskripsi": "Deskripsi singkat untuk Vintage Meja 0106 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 107,
+    "nama_produk": "Classic Kursi 0107",
+    "kategori": "Perhiasan",
+    "harga": 4010662.52,
+    "stok": 330,
+    "berat_gram": 1377,
+    "deskripsi": "Deskripsi singkat untuk Classic Kursi 0107 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 108,
+    "nama_produk": "Pro Tas 0108",
+    "kategori": "Rumah Tangga",
+    "harga": 2390810.01,
+    "stok": 311,
+    "berat_gram": 13892,
+    "deskripsi": "Deskripsi singkat untuk Pro Tas 0108 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 109,
+    "nama_produk": "Modern Jaket 0109",
+    "kategori": "Hiburan",
+    "harga": 10366593.8,
+    "stok": 421,
+    "berat_gram": 5954,
+    "deskripsi": "Deskripsi singkat untuk Modern Jaket 0109 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 110,
+    "nama_produk": "Premium Jam 0110",
+    "kategori": "Makanan & Minuman",
+    "harga": 10889616.67,
+    "stok": 95,
+    "berat_gram": 8991,
+    "deskripsi": "Deskripsi singkat untuk Premium Jam 0110 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 111,
+    "nama_produk": "Mini Phone 0111",
+    "kategori": "Mainan & Hobi",
+    "harga": 8171303.53,
+    "stok": 57,
+    "berat_gram": 3295,
+    "deskripsi": "Deskripsi singkat untuk Mini Phone 0111 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 112,
+    "nama_produk": "Wireless Tas 0112",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 10649700.7,
+    "stok": 296,
+    "berat_gram": 12618,
+    "deskripsi": "Deskripsi singkat untuk Wireless Tas 0112 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 113,
+    "nama_produk": "Gaming Kursi 0113",
+    "kategori": "Kecantikan",
+    "harga": 8983565.71,
+    "stok": 47,
+    "berat_gram": 4995,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kursi 0113 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 114,
+    "nama_produk": "Gaming Jam 0114",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 2584775.39,
+    "stok": 328,
+    "berat_gram": 14440,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jam 0114 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 115,
+    "nama_produk": "Eco Printer 0115",
+    "kategori": "Perhiasan",
+    "harga": 3350169.5,
+    "stok": 1,
+    "berat_gram": 10208,
+    "deskripsi": "Deskripsi singkat untuk Eco Printer 0115 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 116,
+    "nama_produk": "Eco TV 0116",
+    "kategori": "Otomotif",
+    "harga": 13669119.97,
+    "stok": 238,
+    "berat_gram": 8575,
+    "deskripsi": "Deskripsi singkat untuk Eco TV 0116 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 117,
+    "nama_produk": "Pro Sepatu 0117",
+    "kategori": "Makanan & Minuman",
+    "harga": 11489081.99,
+    "stok": 232,
+    "berat_gram": 8369,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0117 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 118,
+    "nama_produk": "Mini Kopi 0118",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 13795837.41,
+    "stok": 364,
+    "berat_gram": 541,
+    "deskripsi": "Deskripsi singkat untuk Mini Kopi 0118 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 119,
+    "nama_produk": "Mini TV 0119",
+    "kategori": "Kecantikan",
+    "harga": 9953080.29,
+    "stok": 448,
+    "berat_gram": 5910,
+    "deskripsi": "Deskripsi singkat untuk Mini TV 0119 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 120,
+    "nama_produk": "Maxi Sepatu 0120",
+    "kategori": "Fashion Anak",
+    "harga": 8757084.97,
+    "stok": 486,
+    "berat_gram": 8902,
+    "deskripsi": "Deskripsi singkat untuk Maxi Sepatu 0120 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 121,
+    "nama_produk": "Classic Headphone 0121",
+    "kategori": "Elektronik",
+    "harga": 1052935.27,
+    "stok": 118,
+    "berat_gram": 10777,
+    "deskripsi": "Deskripsi singkat untuk Classic Headphone 0121 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 122,
+    "nama_produk": "Smart Phone 0122",
+    "kategori": "Perhiasan",
+    "harga": 12586274.62,
+    "stok": 357,
+    "berat_gram": 1290,
+    "deskripsi": "Deskripsi singkat untuk Smart Phone 0122 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 123,
+    "nama_produk": "Gaming Jam 0123",
+    "kategori": "Perhiasan",
+    "harga": 11405997.99,
+    "stok": 256,
+    "berat_gram": 17103,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jam 0123 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 124,
+    "nama_produk": "Vintage Printer 0124",
+    "kategori": "Hiburan",
+    "harga": 5685427.01,
+    "stok": 251,
+    "berat_gram": 14697,
+    "deskripsi": "Deskripsi singkat untuk Vintage Printer 0124 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 125,
+    "nama_produk": "Classic Printer 0125",
+    "kategori": "Fashion Wanita",
+    "harga": 2250213.42,
+    "stok": 49,
+    "berat_gram": 18464,
+    "deskripsi": "Deskripsi singkat untuk Classic Printer 0125 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 126,
+    "nama_produk": "Maxi Drone 0126",
+    "kategori": "Rumah Tangga",
+    "harga": 7786514.43,
+    "stok": 150,
+    "berat_gram": 4618,
+    "deskripsi": "Deskripsi singkat untuk Maxi Drone 0126 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 127,
+    "nama_produk": "Eco Jam 0127",
+    "kategori": "Kesehatan",
+    "harga": 11911979.1,
+    "stok": 44,
+    "berat_gram": 7884,
+    "deskripsi": "Deskripsi singkat untuk Eco Jam 0127 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 128,
+    "nama_produk": "Vintage Jaket 0128",
+    "kategori": "Rumah Tangga",
+    "harga": 14801574.2,
+    "stok": 222,
+    "berat_gram": 15107,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jaket 0128 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 129,
+    "nama_produk": "Eco Drone 0129",
+    "kategori": "Kecantikan",
+    "harga": 6868948.87,
+    "stok": 216,
+    "berat_gram": 15034,
+    "deskripsi": "Deskripsi singkat untuk Eco Drone 0129 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 130,
+    "nama_produk": "Premium Printer 0130",
+    "kategori": "Makanan & Minuman",
+    "harga": 13502757.2,
+    "stok": 423,
+    "berat_gram": 5917,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0130 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 131,
+    "nama_produk": "Pro Printer 0131",
+    "kategori": "Kecantikan",
+    "harga": 9590190.05,
+    "stok": 27,
+    "berat_gram": 18932,
+    "deskripsi": "Deskripsi singkat untuk Pro Printer 0131 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 132,
+    "nama_produk": "Gaming Buku 0132",
+    "kategori": "Elektronik",
+    "harga": 1225014.27,
+    "stok": 466,
+    "berat_gram": 11984,
+    "deskripsi": "Deskripsi singkat untuk Gaming Buku 0132 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 133,
+    "nama_produk": "Eco Kamera 0133",
+    "kategori": "Buku",
+    "harga": 13343533.35,
+    "stok": 0,
+    "berat_gram": 9205,
+    "deskripsi": "Deskripsi singkat untuk Eco Kamera 0133 dari kategori Buku.",
+    "tersedia": false
+  },
+  {
+    "id": 134,
+    "nama_produk": "Smart TV 0134",
+    "kategori": "Otomotif",
+    "harga": 2286642.58,
+    "stok": 316,
+    "berat_gram": 7082,
+    "deskripsi": "Deskripsi singkat untuk Smart TV 0134 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 135,
+    "nama_produk": "Vintage Drone 0135",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 11770719.24,
+    "stok": 324,
+    "berat_gram": 13424,
+    "deskripsi": "Deskripsi singkat untuk Vintage Drone 0135 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 136,
+    "nama_produk": "Maxi Kamera 0136",
+    "kategori": "Elektronik",
+    "harga": 7289166.55,
+    "stok": 149,
+    "berat_gram": 10214,
+    "deskripsi": "Deskripsi singkat untuk Maxi Kamera 0136 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 137,
+    "nama_produk": "Mini Jam 0137",
+    "kategori": "Otomotif",
+    "harga": 2087240.3,
+    "stok": 397,
+    "berat_gram": 6657,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0137 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 138,
+    "nama_produk": "Vintage Headphone 0138",
+    "kategori": "Otomotif",
+    "harga": 12170670.56,
+    "stok": 347,
+    "berat_gram": 385,
+    "deskripsi": "Deskripsi singkat untuk Vintage Headphone 0138 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 139,
+    "nama_produk": "Modern Headphone 0139",
+    "kategori": "Makanan & Minuman",
+    "harga": 10250984.82,
+    "stok": 53,
+    "berat_gram": 527,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0139 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 140,
+    "nama_produk": "Gaming Buku 0140",
+    "kategori": "Kecantikan",
+    "harga": 9897899.99,
+    "stok": 478,
+    "berat_gram": 1574,
+    "deskripsi": "Deskripsi singkat untuk Gaming Buku 0140 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 141,
+    "nama_produk": "Pro Kursi 0141",
+    "kategori": "Mainan & Hobi",
+    "harga": 2017179.77,
+    "stok": 191,
+    "berat_gram": 11379,
+    "deskripsi": "Deskripsi singkat untuk Pro Kursi 0141 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 142,
+    "nama_produk": "Mini Kopi 0142",
+    "kategori": "Perhiasan",
+    "harga": 5037889.1,
+    "stok": 205,
+    "berat_gram": 9601,
+    "deskripsi": "Deskripsi singkat untuk Mini Kopi 0142 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 143,
+    "nama_produk": "Premium Meja 0143",
+    "kategori": "Perhiasan",
+    "harga": 6042246.42,
+    "stok": 370,
+    "berat_gram": 16338,
+    "deskripsi": "Deskripsi singkat untuk Premium Meja 0143 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 144,
+    "nama_produk": "Mini Sepatu 0144",
+    "kategori": "Rumah Tangga",
+    "harga": 2234385.05,
+    "stok": 158,
+    "berat_gram": 12110,
+    "deskripsi": "Deskripsi singkat untuk Mini Sepatu 0144 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 145,
+    "nama_produk": "Mini Headphone 0145",
+    "kategori": "Elektronik",
+    "harga": 4610061.14,
+    "stok": 362,
+    "berat_gram": 19770,
+    "deskripsi": "Deskripsi singkat untuk Mini Headphone 0145 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 146,
+    "nama_produk": "Premium Headphone 0146",
+    "kategori": "Makanan & Minuman",
+    "harga": 3926906.07,
+    "stok": 356,
+    "berat_gram": 2860,
+    "deskripsi": "Deskripsi singkat untuk Premium Headphone 0146 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 147,
+    "nama_produk": "Mini Kopi 0147",
+    "kategori": "Elektronik",
+    "harga": 2560163.79,
+    "stok": 31,
+    "berat_gram": 6025,
+    "deskripsi": "Deskripsi singkat untuk Mini Kopi 0147 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 148,
+    "nama_produk": "Gaming Buku 0148",
+    "kategori": "Mainan & Hobi",
+    "harga": 1121581.99,
+    "stok": 348,
+    "berat_gram": 3498,
+    "deskripsi": "Deskripsi singkat untuk Gaming Buku 0148 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 149,
+    "nama_produk": "Mini Jam 0149",
+    "kategori": "Mainan & Hobi",
+    "harga": 11935871.04,
+    "stok": 52,
+    "berat_gram": 6210,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0149 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 150,
+    "nama_produk": "Premium Printer 0150",
+    "kategori": "Perhiasan",
+    "harga": 2630587.88,
+    "stok": 107,
+    "berat_gram": 2601,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0150 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 151,
+    "nama_produk": "Maxi Headphone 0151",
+    "kategori": "Mainan & Hobi",
+    "harga": 10989186.26,
+    "stok": 309,
+    "berat_gram": 2266,
+    "deskripsi": "Deskripsi singkat untuk Maxi Headphone 0151 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 152,
+    "nama_produk": "Maxi Tas 0152",
+    "kategori": "Fashion Anak",
+    "harga": 4492369.74,
+    "stok": 331,
+    "berat_gram": 13825,
+    "deskripsi": "Deskripsi singkat untuk Maxi Tas 0152 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 153,
+    "nama_produk": "Wireless TV 0153",
+    "kategori": "Kesehatan",
+    "harga": 8992032.47,
+    "stok": 41,
+    "berat_gram": 11592,
+    "deskripsi": "Deskripsi singkat untuk Wireless TV 0153 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 154,
+    "nama_produk": "Premium Headphone 0154",
+    "kategori": "Rumah Tangga",
+    "harga": 13960706.31,
+    "stok": 48,
+    "berat_gram": 11170,
+    "deskripsi": "Deskripsi singkat untuk Premium Headphone 0154 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 155,
+    "nama_produk": "Smart Buku 0155",
+    "kategori": "Fashion Anak",
+    "harga": 14343804.85,
+    "stok": 220,
+    "berat_gram": 5197,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0155 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 156,
+    "nama_produk": "Modern Headphone 0156",
+    "kategori": "Kesehatan",
+    "harga": 12617713.12,
+    "stok": 388,
+    "berat_gram": 11281,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0156 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 157,
+    "nama_produk": "Pro TV 0157",
+    "kategori": "Elektronik",
+    "harga": 2659792.79,
+    "stok": 344,
+    "berat_gram": 10194,
+    "deskripsi": "Deskripsi singkat untuk Pro TV 0157 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 158,
+    "nama_produk": "Maxi Kopi 0158",
+    "kategori": "Kesehatan",
+    "harga": 6070242.95,
+    "stok": 170,
+    "berat_gram": 16078,
+    "deskripsi": "Deskripsi singkat untuk Maxi Kopi 0158 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 159,
+    "nama_produk": "Maxi Buku 0159",
+    "kategori": "Mainan & Hobi",
+    "harga": 2591568.01,
+    "stok": 487,
+    "berat_gram": 6409,
+    "deskripsi": "Deskripsi singkat untuk Maxi Buku 0159 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 160,
+    "nama_produk": "Vintage Buku 0160",
+    "kategori": "Hiburan",
+    "harga": 12753679.87,
+    "stok": 141,
+    "berat_gram": 15927,
+    "deskripsi": "Deskripsi singkat untuk Vintage Buku 0160 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 161,
+    "nama_produk": "Pro Sepatu 0161",
+    "kategori": "Olahraga",
+    "harga": 13171288.2,
+    "stok": 431,
+    "berat_gram": 10917,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0161 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 162,
+    "nama_produk": "Smart Buku 0162",
+    "kategori": "Elektronik",
+    "harga": 14890011.53,
+    "stok": 459,
+    "berat_gram": 291,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0162 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 163,
+    "nama_produk": "Vintage Kamera 0163",
+    "kategori": "Kesehatan",
+    "harga": 9891208.43,
+    "stok": 416,
+    "berat_gram": 16333,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kamera 0163 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 164,
+    "nama_produk": "Classic Kursi 0164",
+    "kategori": "Makanan & Minuman",
+    "harga": 11934232.03,
+    "stok": 216,
+    "berat_gram": 9401,
+    "deskripsi": "Deskripsi singkat untuk Classic Kursi 0164 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 165,
+    "nama_produk": "Pro TV 0165",
+    "kategori": "Kecantikan",
+    "harga": 3970932.61,
+    "stok": 187,
+    "berat_gram": 9070,
+    "deskripsi": "Deskripsi singkat untuk Pro TV 0165 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 166,
+    "nama_produk": "Maxi Phone 0166",
+    "kategori": "Elektronik",
+    "harga": 11921995.41,
+    "stok": 140,
+    "berat_gram": 7493,
+    "deskripsi": "Deskripsi singkat untuk Maxi Phone 0166 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 167,
+    "nama_produk": "Gaming Sepatu 0167",
+    "kategori": "Kesehatan",
+    "harga": 4730871.43,
+    "stok": 178,
+    "berat_gram": 10271,
+    "deskripsi": "Deskripsi singkat untuk Gaming Sepatu 0167 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 168,
+    "nama_produk": "Gaming Drone 0168",
+    "kategori": "Makanan & Minuman",
+    "harga": 10979075.38,
+    "stok": 90,
+    "berat_gram": 3303,
+    "deskripsi": "Deskripsi singkat untuk Gaming Drone 0168 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 169,
+    "nama_produk": "Pro TV 0169",
+    "kategori": "Kecantikan",
+    "harga": 11579637.45,
+    "stok": 124,
+    "berat_gram": 19240,
+    "deskripsi": "Deskripsi singkat untuk Pro TV 0169 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 170,
+    "nama_produk": "Vintage Jaket 0170",
+    "kategori": "Fashion Pria",
+    "harga": 5673776.2,
+    "stok": 408,
+    "berat_gram": 18536,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jaket 0170 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 171,
+    "nama_produk": "Wireless Sepatu 0171",
+    "kategori": "Buku",
+    "harga": 14851216.37,
+    "stok": 304,
+    "berat_gram": 3301,
+    "deskripsi": "Deskripsi singkat untuk Wireless Sepatu 0171 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 172,
+    "nama_produk": "Premium Jaket 0172",
+    "kategori": "Otomotif",
+    "harga": 10789424.51,
+    "stok": 176,
+    "berat_gram": 16974,
+    "deskripsi": "Deskripsi singkat untuk Premium Jaket 0172 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 173,
+    "nama_produk": "Modern Drone 0173",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 9608322.65,
+    "stok": 63,
+    "berat_gram": 7921,
+    "deskripsi": "Deskripsi singkat untuk Modern Drone 0173 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 174,
+    "nama_produk": "Smart Printer 0174",
+    "kategori": "Otomotif",
+    "harga": 6885125.18,
+    "stok": 173,
+    "berat_gram": 905,
+    "deskripsi": "Deskripsi singkat untuk Smart Printer 0174 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 175,
+    "nama_produk": "Gaming TV 0175",
+    "kategori": "Makanan & Minuman",
+    "harga": 13326991.59,
+    "stok": 297,
+    "berat_gram": 18009,
+    "deskripsi": "Deskripsi singkat untuk Gaming TV 0175 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 176,
+    "nama_produk": "Smart Buku 0176",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 1472082.38,
+    "stok": 144,
+    "berat_gram": 5445,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0176 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 177,
+    "nama_produk": "Modern Buku 0177",
+    "kategori": "Fashion Anak",
+    "harga": 13642717.31,
+    "stok": 282,
+    "berat_gram": 12952,
+    "deskripsi": "Deskripsi singkat untuk Modern Buku 0177 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 178,
+    "nama_produk": "Pro Meja 0178",
+    "kategori": "Fashion Wanita",
+    "harga": 1002108.41,
+    "stok": 214,
+    "berat_gram": 5700,
+    "deskripsi": "Deskripsi singkat untuk Pro Meja 0178 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 179,
+    "nama_produk": "Gaming Kursi 0179",
+    "kategori": "Hiburan",
+    "harga": 701964.85,
+    "stok": 163,
+    "berat_gram": 16463,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kursi 0179 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 180,
+    "nama_produk": "Classic Sepatu 0180",
+    "kategori": "Otomotif",
+    "harga": 14168314.13,
+    "stok": 498,
+    "berat_gram": 3942,
+    "deskripsi": "Deskripsi singkat untuk Classic Sepatu 0180 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 181,
+    "nama_produk": "Smart Buku 0181",
+    "kategori": "Fashion Wanita",
+    "harga": 12852178.06,
+    "stok": 131,
+    "berat_gram": 5918,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0181 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 182,
+    "nama_produk": "Gaming Kopi 0182",
+    "kategori": "Buku",
+    "harga": 4168881.18,
+    "stok": 221,
+    "berat_gram": 10965,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kopi 0182 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 183,
+    "nama_produk": "Classic Jam 0183",
+    "kategori": "Fashion Pria",
+    "harga": 12701416.93,
+    "stok": 391,
+    "berat_gram": 10009,
+    "deskripsi": "Deskripsi singkat untuk Classic Jam 0183 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 184,
+    "nama_produk": "Classic Printer 0184",
+    "kategori": "Otomotif",
+    "harga": 3694863.78,
+    "stok": 417,
+    "berat_gram": 13028,
+    "deskripsi": "Deskripsi singkat untuk Classic Printer 0184 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 185,
+    "nama_produk": "Wireless Meja 0185",
+    "kategori": "Rumah Tangga",
+    "harga": 14115784.05,
+    "stok": 399,
+    "berat_gram": 5154,
+    "deskripsi": "Deskripsi singkat untuk Wireless Meja 0185 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 186,
+    "nama_produk": "Smart Printer 0186",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 2794472.01,
+    "stok": 346,
+    "berat_gram": 17484,
+    "deskripsi": "Deskripsi singkat untuk Smart Printer 0186 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 187,
+    "nama_produk": "Maxi Printer 0187",
+    "kategori": "Fashion Pria",
+    "harga": 10284437.48,
+    "stok": 443,
+    "berat_gram": 4056,
+    "deskripsi": "Deskripsi singkat untuk Maxi Printer 0187 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 188,
+    "nama_produk": "Vintage Buku 0188",
+    "kategori": "Hiburan",
+    "harga": 6018256.81,
+    "stok": 257,
+    "berat_gram": 15443,
+    "deskripsi": "Deskripsi singkat untuk Vintage Buku 0188 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 189,
+    "nama_produk": "Eco Printer 0189",
+    "kategori": "Makanan & Minuman",
+    "harga": 1393246.92,
+    "stok": 89,
+    "berat_gram": 2570,
+    "deskripsi": "Deskripsi singkat untuk Eco Printer 0189 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 190,
+    "nama_produk": "Pro Headphone 0190",
+    "kategori": "Buku",
+    "harga": 7475233.39,
+    "stok": 383,
+    "berat_gram": 14761,
+    "deskripsi": "Deskripsi singkat untuk Pro Headphone 0190 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 191,
+    "nama_produk": "Modern Kopi 0191",
+    "kategori": "Fashion Anak",
+    "harga": 10900265.82,
+    "stok": 340,
+    "berat_gram": 13108,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0191 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 192,
+    "nama_produk": "Classic Phone 0192",
+    "kategori": "Kesehatan",
+    "harga": 1438030.24,
+    "stok": 317,
+    "berat_gram": 2953,
+    "deskripsi": "Deskripsi singkat untuk Classic Phone 0192 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 193,
+    "nama_produk": "Mini Buku 0193",
+    "kategori": "Buku",
+    "harga": 10100690.33,
+    "stok": 234,
+    "berat_gram": 9347,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0193 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 194,
+    "nama_produk": "Premium Drone 0194",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 13007001.22,
+    "stok": 161,
+    "berat_gram": 11049,
+    "deskripsi": "Deskripsi singkat untuk Premium Drone 0194 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 195,
+    "nama_produk": "Vintage Jam 0195",
+    "kategori": "Makanan & Minuman",
+    "harga": 1445147.09,
+    "stok": 373,
+    "berat_gram": 17077,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jam 0195 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 196,
+    "nama_produk": "Modern Kamera 0196",
+    "kategori": "Fashion Anak",
+    "harga": 10058029.97,
+    "stok": 73,
+    "berat_gram": 19868,
+    "deskripsi": "Deskripsi singkat untuk Modern Kamera 0196 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 197,
+    "nama_produk": "Wireless Jaket 0197",
+    "kategori": "Olahraga",
+    "harga": 12093220.85,
+    "stok": 236,
+    "berat_gram": 18771,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jaket 0197 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 198,
+    "nama_produk": "Gaming Sepatu 0198",
+    "kategori": "Fashion Pria",
+    "harga": 1085322.89,
+    "stok": 167,
+    "berat_gram": 7724,
+    "deskripsi": "Deskripsi singkat untuk Gaming Sepatu 0198 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 199,
+    "nama_produk": "Eco Tas 0199",
+    "kategori": "Rumah Tangga",
+    "harga": 3956370.25,
+    "stok": 458,
+    "berat_gram": 3746,
+    "deskripsi": "Deskripsi singkat untuk Eco Tas 0199 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 200,
+    "nama_produk": "Vintage Buku 0200",
+    "kategori": "Fashion Wanita",
+    "harga": 5064348.22,
+    "stok": 29,
+    "berat_gram": 442,
+    "deskripsi": "Deskripsi singkat untuk Vintage Buku 0200 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 201,
+    "nama_produk": "Modern Headphone 0201",
+    "kategori": "Kecantikan",
+    "harga": 14203398.56,
+    "stok": 369,
+    "berat_gram": 4720,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0201 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 202,
+    "nama_produk": "Classic TV 0202",
+    "kategori": "Fashion Anak",
+    "harga": 12825499.82,
+    "stok": 247,
+    "berat_gram": 9662,
+    "deskripsi": "Deskripsi singkat untuk Classic TV 0202 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 203,
+    "nama_produk": "Mini Buku 0203",
+    "kategori": "Otomotif",
+    "harga": 6201176.81,
+    "stok": 87,
+    "berat_gram": 8258,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0203 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 204,
+    "nama_produk": "Mini Sepatu 0204",
+    "kategori": "Perhiasan",
+    "harga": 13487022.43,
+    "stok": 375,
+    "berat_gram": 6683,
+    "deskripsi": "Deskripsi singkat untuk Mini Sepatu 0204 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 205,
+    "nama_produk": "Vintage Tas 0205",
+    "kategori": "Elektronik",
+    "harga": 3645323.42,
+    "stok": 117,
+    "berat_gram": 2839,
+    "deskripsi": "Deskripsi singkat untuk Vintage Tas 0205 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 206,
+    "nama_produk": "Smart Kursi 0206",
+    "kategori": "Makanan & Minuman",
+    "harga": 1663676.02,
+    "stok": 493,
+    "berat_gram": 655,
+    "deskripsi": "Deskripsi singkat untuk Smart Kursi 0206 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 207,
+    "nama_produk": "Classic Phone 0207",
+    "kategori": "Fashion Anak",
+    "harga": 10725854.79,
+    "stok": 135,
+    "berat_gram": 800,
+    "deskripsi": "Deskripsi singkat untuk Classic Phone 0207 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 208,
+    "nama_produk": "Eco Printer 0208",
+    "kategori": "Olahraga",
+    "harga": 10997383.72,
+    "stok": 198,
+    "berat_gram": 8041,
+    "deskripsi": "Deskripsi singkat untuk Eco Printer 0208 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 209,
+    "nama_produk": "Modern Drone 0209",
+    "kategori": "Otomotif",
+    "harga": 4019682.29,
+    "stok": 201,
+    "berat_gram": 19939,
+    "deskripsi": "Deskripsi singkat untuk Modern Drone 0209 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 210,
+    "nama_produk": "Modern Kopi 0210",
+    "kategori": "Elektronik",
+    "harga": 3113578.94,
+    "stok": 102,
+    "berat_gram": 18427,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0210 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 211,
+    "nama_produk": "Gaming Buku 0211",
+    "kategori": "Olahraga",
+    "harga": 7424218.65,
+    "stok": 140,
+    "berat_gram": 11280,
+    "deskripsi": "Deskripsi singkat untuk Gaming Buku 0211 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 212,
+    "nama_produk": "Vintage Meja 0212",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 12360141.78,
+    "stok": 1,
+    "berat_gram": 17845,
+    "deskripsi": "Deskripsi singkat untuk Vintage Meja 0212 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 213,
+    "nama_produk": "Eco Jam 0213",
+    "kategori": "Elektronik",
+    "harga": 11379951.99,
+    "stok": 143,
+    "berat_gram": 17559,
+    "deskripsi": "Deskripsi singkat untuk Eco Jam 0213 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 214,
+    "nama_produk": "Gaming Meja 0214",
+    "kategori": "Rumah Tangga",
+    "harga": 8672371.92,
+    "stok": 194,
+    "berat_gram": 16125,
+    "deskripsi": "Deskripsi singkat untuk Gaming Meja 0214 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 215,
+    "nama_produk": "Modern Jaket 0215",
+    "kategori": "Hiburan",
+    "harga": 2405016.18,
+    "stok": 499,
+    "berat_gram": 13201,
+    "deskripsi": "Deskripsi singkat untuk Modern Jaket 0215 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 216,
+    "nama_produk": "Pro Jam 0216",
+    "kategori": "Buku",
+    "harga": 470748.9,
+    "stok": 32,
+    "berat_gram": 16949,
+    "deskripsi": "Deskripsi singkat untuk Pro Jam 0216 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 217,
+    "nama_produk": "Gaming Headphone 0217",
+    "kategori": "Elektronik",
+    "harga": 9437491.25,
+    "stok": 339,
+    "berat_gram": 17594,
+    "deskripsi": "Deskripsi singkat untuk Gaming Headphone 0217 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 218,
+    "nama_produk": "Vintage Sepatu 0218",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 7761996.52,
+    "stok": 43,
+    "berat_gram": 19118,
+    "deskripsi": "Deskripsi singkat untuk Vintage Sepatu 0218 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 219,
+    "nama_produk": "Modern Headphone 0219",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 8506225.02,
+    "stok": 59,
+    "berat_gram": 10772,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0219 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 220,
+    "nama_produk": "Modern Jam 0220",
+    "kategori": "Olahraga",
+    "harga": 8343319.32,
+    "stok": 492,
+    "berat_gram": 16857,
+    "deskripsi": "Deskripsi singkat untuk Modern Jam 0220 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 221,
+    "nama_produk": "Mini Kopi 0221",
+    "kategori": "Rumah Tangga",
+    "harga": 14960667.14,
+    "stok": 396,
+    "berat_gram": 8866,
+    "deskripsi": "Deskripsi singkat untuk Mini Kopi 0221 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 222,
+    "nama_produk": "Gaming TV 0222",
+    "kategori": "Kesehatan",
+    "harga": 8298631.94,
+    "stok": 320,
+    "berat_gram": 3836,
+    "deskripsi": "Deskripsi singkat untuk Gaming TV 0222 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 223,
+    "nama_produk": "Smart Buku 0223",
+    "kategori": "Elektronik",
+    "harga": 12376127.07,
+    "stok": 327,
+    "berat_gram": 9132,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0223 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 224,
+    "nama_produk": "Modern Printer 0224",
+    "kategori": "Otomotif",
+    "harga": 8506957.55,
+    "stok": 317,
+    "berat_gram": 13370,
+    "deskripsi": "Deskripsi singkat untuk Modern Printer 0224 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 225,
+    "nama_produk": "Modern Headphone 0225",
+    "kategori": "Elektronik",
+    "harga": 12064989.3,
+    "stok": 268,
+    "berat_gram": 19584,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0225 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 226,
+    "nama_produk": "Pro Phone 0226",
+    "kategori": "Rumah Tangga",
+    "harga": 4361623.09,
+    "stok": 243,
+    "berat_gram": 6322,
+    "deskripsi": "Deskripsi singkat untuk Pro Phone 0226 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 227,
+    "nama_produk": "Classic TV 0227",
+    "kategori": "Kesehatan",
+    "harga": 9913411.0,
+    "stok": 171,
+    "berat_gram": 13170,
+    "deskripsi": "Deskripsi singkat untuk Classic TV 0227 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 228,
+    "nama_produk": "Premium Jaket 0228",
+    "kategori": "Perhiasan",
+    "harga": 401871.66,
+    "stok": 424,
+    "berat_gram": 4060,
+    "deskripsi": "Deskripsi singkat untuk Premium Jaket 0228 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 229,
+    "nama_produk": "Smart Meja 0229",
+    "kategori": "Makanan & Minuman",
+    "harga": 9839864.32,
+    "stok": 20,
+    "berat_gram": 3148,
+    "deskripsi": "Deskripsi singkat untuk Smart Meja 0229 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 230,
+    "nama_produk": "Classic Buku 0230",
+    "kategori": "Kecantikan",
+    "harga": 9225750.89,
+    "stok": 144,
+    "berat_gram": 4278,
+    "deskripsi": "Deskripsi singkat untuk Classic Buku 0230 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 231,
+    "nama_produk": "Premium TV 0231",
+    "kategori": "Rumah Tangga",
+    "harga": 3713101.19,
+    "stok": 299,
+    "berat_gram": 7695,
+    "deskripsi": "Deskripsi singkat untuk Premium TV 0231 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 232,
+    "nama_produk": "Mini Sepatu 0232",
+    "kategori": "Olahraga",
+    "harga": 3061654.44,
+    "stok": 297,
+    "berat_gram": 4615,
+    "deskripsi": "Deskripsi singkat untuk Mini Sepatu 0232 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 233,
+    "nama_produk": "Smart TV 0233",
+    "kategori": "Buku",
+    "harga": 10618835.22,
+    "stok": 489,
+    "berat_gram": 6773,
+    "deskripsi": "Deskripsi singkat untuk Smart TV 0233 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 234,
+    "nama_produk": "Pro Tas 0234",
+    "kategori": "Kecantikan",
+    "harga": 1621683.4,
+    "stok": 320,
+    "berat_gram": 5665,
+    "deskripsi": "Deskripsi singkat untuk Pro Tas 0234 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 235,
+    "nama_produk": "Premium Sepatu 0235",
+    "kategori": "Elektronik",
+    "harga": 6235048.78,
+    "stok": 368,
+    "berat_gram": 15372,
+    "deskripsi": "Deskripsi singkat untuk Premium Sepatu 0235 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 236,
+    "nama_produk": "Classic Jaket 0236",
+    "kategori": "Fashion Anak",
+    "harga": 7729759.08,
+    "stok": 184,
+    "berat_gram": 724,
+    "deskripsi": "Deskripsi singkat untuk Classic Jaket 0236 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 237,
+    "nama_produk": "Mini Printer 0237",
+    "kategori": "Kecantikan",
+    "harga": 4222728.32,
+    "stok": 385,
+    "berat_gram": 13627,
+    "deskripsi": "Deskripsi singkat untuk Mini Printer 0237 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 238,
+    "nama_produk": "Mini TV 0238",
+    "kategori": "Kesehatan",
+    "harga": 10531928.07,
+    "stok": 455,
+    "berat_gram": 5079,
+    "deskripsi": "Deskripsi singkat untuk Mini TV 0238 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 239,
+    "nama_produk": "Gaming Drone 0239",
+    "kategori": "Rumah Tangga",
+    "harga": 1487674.7,
+    "stok": 179,
+    "berat_gram": 1830,
+    "deskripsi": "Deskripsi singkat untuk Gaming Drone 0239 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 240,
+    "nama_produk": "Maxi Drone 0240",
+    "kategori": "Perhiasan",
+    "harga": 4409829.61,
+    "stok": 88,
+    "berat_gram": 14609,
+    "deskripsi": "Deskripsi singkat untuk Maxi Drone 0240 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 241,
+    "nama_produk": "Maxi Meja 0241",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 13617511.4,
+    "stok": 264,
+    "berat_gram": 18246,
+    "deskripsi": "Deskripsi singkat untuk Maxi Meja 0241 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 242,
+    "nama_produk": "Eco Kopi 0242",
+    "kategori": "Elektronik",
+    "harga": 7154641.58,
+    "stok": 120,
+    "berat_gram": 5152,
+    "deskripsi": "Deskripsi singkat untuk Eco Kopi 0242 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 243,
+    "nama_produk": "Mini Jam 0243",
+    "kategori": "Kesehatan",
+    "harga": 4472376.43,
+    "stok": 334,
+    "berat_gram": 17188,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0243 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 244,
+    "nama_produk": "Wireless Jaket 0244",
+    "kategori": "Elektronik",
+    "harga": 11778046.39,
+    "stok": 423,
+    "berat_gram": 12527,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jaket 0244 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 245,
+    "nama_produk": "Classic Printer 0245",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 11274591.88,
+    "stok": 116,
+    "berat_gram": 14533,
+    "deskripsi": "Deskripsi singkat untuk Classic Printer 0245 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 246,
+    "nama_produk": "Pro Sepatu 0246",
+    "kategori": "Fashion Pria",
+    "harga": 12341527.43,
+    "stok": 348,
+    "berat_gram": 19173,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0246 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 247,
+    "nama_produk": "Classic Sepatu 0247",
+    "kategori": "Fashion Wanita",
+    "harga": 11960480.73,
+    "stok": 338,
+    "berat_gram": 14729,
+    "deskripsi": "Deskripsi singkat untuk Classic Sepatu 0247 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 248,
+    "nama_produk": "Modern Jaket 0248",
+    "kategori": "Fashion Pria",
+    "harga": 9404867.57,
+    "stok": 155,
+    "berat_gram": 11862,
+    "deskripsi": "Deskripsi singkat untuk Modern Jaket 0248 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 249,
+    "nama_produk": "Smart Kamera 0249",
+    "kategori": "Fashion Anak",
+    "harga": 6060761.4,
+    "stok": 251,
+    "berat_gram": 7852,
+    "deskripsi": "Deskripsi singkat untuk Smart Kamera 0249 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 250,
+    "nama_produk": "Gaming Kamera 0250",
+    "kategori": "Hiburan",
+    "harga": 12036940.3,
+    "stok": 155,
+    "berat_gram": 6003,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kamera 0250 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 251,
+    "nama_produk": "Eco Jaket 0251",
+    "kategori": "Hiburan",
+    "harga": 12808266.1,
+    "stok": 390,
+    "berat_gram": 16060,
+    "deskripsi": "Deskripsi singkat untuk Eco Jaket 0251 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 252,
+    "nama_produk": "Premium Kursi 0252",
+    "kategori": "Kecantikan",
+    "harga": 12492246.08,
+    "stok": 412,
+    "berat_gram": 13450,
+    "deskripsi": "Deskripsi singkat untuk Premium Kursi 0252 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 253,
+    "nama_produk": "Premium Kamera 0253",
+    "kategori": "Fashion Pria",
+    "harga": 5607899.38,
+    "stok": 493,
+    "berat_gram": 4273,
+    "deskripsi": "Deskripsi singkat untuk Premium Kamera 0253 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 254,
+    "nama_produk": "Pro Printer 0254",
+    "kategori": "Olahraga",
+    "harga": 237983.45,
+    "stok": 88,
+    "berat_gram": 649,
+    "deskripsi": "Deskripsi singkat untuk Pro Printer 0254 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 255,
+    "nama_produk": "Modern Kursi 0255",
+    "kategori": "Kecantikan",
+    "harga": 3451743.55,
+    "stok": 32,
+    "berat_gram": 7701,
+    "deskripsi": "Deskripsi singkat untuk Modern Kursi 0255 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 256,
+    "nama_produk": "Wireless Printer 0256",
+    "kategori": "Hiburan",
+    "harga": 8643259.71,
+    "stok": 425,
+    "berat_gram": 1082,
+    "deskripsi": "Deskripsi singkat untuk Wireless Printer 0256 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 257,
+    "nama_produk": "Pro Phone 0257",
+    "kategori": "Buku",
+    "harga": 13035353.25,
+    "stok": 131,
+    "berat_gram": 6680,
+    "deskripsi": "Deskripsi singkat untuk Pro Phone 0257 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 258,
+    "nama_produk": "Mini Jaket 0258",
+    "kategori": "Makanan & Minuman",
+    "harga": 12807799.89,
+    "stok": 114,
+    "berat_gram": 10183,
+    "deskripsi": "Deskripsi singkat untuk Mini Jaket 0258 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 259,
+    "nama_produk": "Mini Buku 0259",
+    "kategori": "Makanan & Minuman",
+    "harga": 8286927.48,
+    "stok": 90,
+    "berat_gram": 16154,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0259 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 260,
+    "nama_produk": "Modern Printer 0260",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 14676335.81,
+    "stok": 330,
+    "berat_gram": 17018,
+    "deskripsi": "Deskripsi singkat untuk Modern Printer 0260 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 261,
+    "nama_produk": "Premium Tas 0261",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 4963341.77,
+    "stok": 258,
+    "berat_gram": 2758,
+    "deskripsi": "Deskripsi singkat untuk Premium Tas 0261 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 262,
+    "nama_produk": "Wireless Headphone 0262",
+    "kategori": "Fashion Pria",
+    "harga": 1634614.4,
+    "stok": 214,
+    "berat_gram": 4996,
+    "deskripsi": "Deskripsi singkat untuk Wireless Headphone 0262 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 263,
+    "nama_produk": "Mini Meja 0263",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 2827628.94,
+    "stok": 294,
+    "berat_gram": 15786,
+    "deskripsi": "Deskripsi singkat untuk Mini Meja 0263 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 264,
+    "nama_produk": "Wireless Kopi 0264",
+    "kategori": "Kecantikan",
+    "harga": 5345013.32,
+    "stok": 80,
+    "berat_gram": 7272,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kopi 0264 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 265,
+    "nama_produk": "Smart Phone 0265",
+    "kategori": "Hiburan",
+    "harga": 11588034.36,
+    "stok": 254,
+    "berat_gram": 10693,
+    "deskripsi": "Deskripsi singkat untuk Smart Phone 0265 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 266,
+    "nama_produk": "Wireless Kopi 0266",
+    "kategori": "Fashion Pria",
+    "harga": 1060844.25,
+    "stok": 6,
+    "berat_gram": 8088,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kopi 0266 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 267,
+    "nama_produk": "Classic Kursi 0267",
+    "kategori": "Olahraga",
+    "harga": 10973500.11,
+    "stok": 289,
+    "berat_gram": 15673,
+    "deskripsi": "Deskripsi singkat untuk Classic Kursi 0267 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 268,
+    "nama_produk": "Premium Kopi 0268",
+    "kategori": "Otomotif",
+    "harga": 6440754.64,
+    "stok": 383,
+    "berat_gram": 4953,
+    "deskripsi": "Deskripsi singkat untuk Premium Kopi 0268 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 269,
+    "nama_produk": "Eco Tas 0269",
+    "kategori": "Mainan & Hobi",
+    "harga": 993001.2,
+    "stok": 334,
+    "berat_gram": 148,
+    "deskripsi": "Deskripsi singkat untuk Eco Tas 0269 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 270,
+    "nama_produk": "Mini TV 0270",
+    "kategori": "Rumah Tangga",
+    "harga": 7960993.05,
+    "stok": 322,
+    "berat_gram": 11063,
+    "deskripsi": "Deskripsi singkat untuk Mini TV 0270 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 271,
+    "nama_produk": "Gaming Drone 0271",
+    "kategori": "Perhiasan",
+    "harga": 11366724.08,
+    "stok": 361,
+    "berat_gram": 14863,
+    "deskripsi": "Deskripsi singkat untuk Gaming Drone 0271 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 272,
+    "nama_produk": "Pro Jaket 0272",
+    "kategori": "Fashion Anak",
+    "harga": 14213048.61,
+    "stok": 25,
+    "berat_gram": 10098,
+    "deskripsi": "Deskripsi singkat untuk Pro Jaket 0272 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 273,
+    "nama_produk": "Gaming Kopi 0273",
+    "kategori": "Fashion Wanita",
+    "harga": 9427599.87,
+    "stok": 328,
+    "berat_gram": 478,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kopi 0273 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 274,
+    "nama_produk": "Classic Buku 0274",
+    "kategori": "Perhiasan",
+    "harga": 1618190.71,
+    "stok": 101,
+    "berat_gram": 13284,
+    "deskripsi": "Deskripsi singkat untuk Classic Buku 0274 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 275,
+    "nama_produk": "Smart Kursi 0275",
+    "kategori": "Buku",
+    "harga": 1181779.66,
+    "stok": 31,
+    "berat_gram": 743,
+    "deskripsi": "Deskripsi singkat untuk Smart Kursi 0275 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 276,
+    "nama_produk": "Mini Kursi 0276",
+    "kategori": "Hiburan",
+    "harga": 2367595.23,
+    "stok": 444,
+    "berat_gram": 14795,
+    "deskripsi": "Deskripsi singkat untuk Mini Kursi 0276 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 277,
+    "nama_produk": "Gaming Jam 0277",
+    "kategori": "Makanan & Minuman",
+    "harga": 10472460.87,
+    "stok": 59,
+    "berat_gram": 10086,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jam 0277 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 278,
+    "nama_produk": "Classic Kamera 0278",
+    "kategori": "Mainan & Hobi",
+    "harga": 3740052.03,
+    "stok": 82,
+    "berat_gram": 11333,
+    "deskripsi": "Deskripsi singkat untuk Classic Kamera 0278 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 279,
+    "nama_produk": "Smart Phone 0279",
+    "kategori": "Fashion Wanita",
+    "harga": 6476992.35,
+    "stok": 488,
+    "berat_gram": 18812,
+    "deskripsi": "Deskripsi singkat untuk Smart Phone 0279 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 280,
+    "nama_produk": "Maxi Drone 0280",
+    "kategori": "Makanan & Minuman",
+    "harga": 12098846.69,
+    "stok": 375,
+    "berat_gram": 7054,
+    "deskripsi": "Deskripsi singkat untuk Maxi Drone 0280 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 281,
+    "nama_produk": "Premium Printer 0281",
+    "kategori": "Fashion Anak",
+    "harga": 7494928.89,
+    "stok": 454,
+    "berat_gram": 3901,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0281 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 282,
+    "nama_produk": "Gaming Meja 0282",
+    "kategori": "Fashion Wanita",
+    "harga": 5872874.35,
+    "stok": 206,
+    "berat_gram": 4294,
+    "deskripsi": "Deskripsi singkat untuk Gaming Meja 0282 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 283,
+    "nama_produk": "Vintage Phone 0283",
+    "kategori": "Kesehatan",
+    "harga": 1718306.35,
+    "stok": 428,
+    "berat_gram": 7205,
+    "deskripsi": "Deskripsi singkat untuk Vintage Phone 0283 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 284,
+    "nama_produk": "Premium Printer 0284",
+    "kategori": "Kesehatan",
+    "harga": 11943859.16,
+    "stok": 313,
+    "berat_gram": 13497,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0284 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 285,
+    "nama_produk": "Eco Jaket 0285",
+    "kategori": "Elektronik",
+    "harga": 6822804.66,
+    "stok": 201,
+    "berat_gram": 14173,
+    "deskripsi": "Deskripsi singkat untuk Eco Jaket 0285 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 286,
+    "nama_produk": "Vintage Headphone 0286",
+    "kategori": "Fashion Pria",
+    "harga": 12238610.65,
+    "stok": 470,
+    "berat_gram": 3656,
+    "deskripsi": "Deskripsi singkat untuk Vintage Headphone 0286 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 287,
+    "nama_produk": "Pro Phone 0287",
+    "kategori": "Kesehatan",
+    "harga": 9668062.42,
+    "stok": 255,
+    "berat_gram": 8492,
+    "deskripsi": "Deskripsi singkat untuk Pro Phone 0287 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 288,
+    "nama_produk": "Maxi Printer 0288",
+    "kategori": "Fashion Anak",
+    "harga": 8525318.34,
+    "stok": 211,
+    "berat_gram": 17372,
+    "deskripsi": "Deskripsi singkat untuk Maxi Printer 0288 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 289,
+    "nama_produk": "Smart Headphone 0289",
+    "kategori": "Rumah Tangga",
+    "harga": 10845475.45,
+    "stok": 30,
+    "berat_gram": 4933,
+    "deskripsi": "Deskripsi singkat untuk Smart Headphone 0289 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 290,
+    "nama_produk": "Vintage Jaket 0290",
+    "kategori": "Rumah Tangga",
+    "harga": 1987853.85,
+    "stok": 115,
+    "berat_gram": 18287,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jaket 0290 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 291,
+    "nama_produk": "Eco Kursi 0291",
+    "kategori": "Olahraga",
+    "harga": 12843461.61,
+    "stok": 29,
+    "berat_gram": 10283,
+    "deskripsi": "Deskripsi singkat untuk Eco Kursi 0291 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 292,
+    "nama_produk": "Smart Phone 0292",
+    "kategori": "Makanan & Minuman",
+    "harga": 13720826.65,
+    "stok": 76,
+    "berat_gram": 5346,
+    "deskripsi": "Deskripsi singkat untuk Smart Phone 0292 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 293,
+    "nama_produk": "Modern Kopi 0293",
+    "kategori": "Mainan & Hobi",
+    "harga": 14933385.29,
+    "stok": 462,
+    "berat_gram": 9565,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0293 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 294,
+    "nama_produk": "Classic Jam 0294",
+    "kategori": "Mainan & Hobi",
+    "harga": 9239185.69,
+    "stok": 189,
+    "berat_gram": 11818,
+    "deskripsi": "Deskripsi singkat untuk Classic Jam 0294 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 295,
+    "nama_produk": "Wireless Buku 0295",
+    "kategori": "Buku",
+    "harga": 1454538.55,
+    "stok": 162,
+    "berat_gram": 3789,
+    "deskripsi": "Deskripsi singkat untuk Wireless Buku 0295 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 296,
+    "nama_produk": "Eco Drone 0296",
+    "kategori": "Fashion Anak",
+    "harga": 353429.4,
+    "stok": 78,
+    "berat_gram": 17211,
+    "deskripsi": "Deskripsi singkat untuk Eco Drone 0296 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 297,
+    "nama_produk": "Maxi Meja 0297",
+    "kategori": "Olahraga",
+    "harga": 352079.37,
+    "stok": 14,
+    "berat_gram": 842,
+    "deskripsi": "Deskripsi singkat untuk Maxi Meja 0297 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 298,
+    "nama_produk": "Gaming Phone 0298",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 7837904.17,
+    "stok": 480,
+    "berat_gram": 7077,
+    "deskripsi": "Deskripsi singkat untuk Gaming Phone 0298 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 299,
+    "nama_produk": "Mini Meja 0299",
+    "kategori": "Buku",
+    "harga": 9637446.99,
+    "stok": 97,
+    "berat_gram": 5919,
+    "deskripsi": "Deskripsi singkat untuk Mini Meja 0299 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 300,
+    "nama_produk": "Modern Kursi 0300",
+    "kategori": "Hiburan",
+    "harga": 7535809.98,
+    "stok": 225,
+    "berat_gram": 10930,
+    "deskripsi": "Deskripsi singkat untuk Modern Kursi 0300 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 301,
+    "nama_produk": "Classic Jam 0301",
+    "kategori": "Perhiasan",
+    "harga": 6279132.75,
+    "stok": 156,
+    "berat_gram": 3313,
+    "deskripsi": "Deskripsi singkat untuk Classic Jam 0301 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 302,
+    "nama_produk": "Smart Meja 0302",
+    "kategori": "Rumah Tangga",
+    "harga": 4528771.98,
+    "stok": 122,
+    "berat_gram": 758,
+    "deskripsi": "Deskripsi singkat untuk Smart Meja 0302 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 303,
+    "nama_produk": "Premium Meja 0303",
+    "kategori": "Elektronik",
+    "harga": 11443641.89,
+    "stok": 299,
+    "berat_gram": 8747,
+    "deskripsi": "Deskripsi singkat untuk Premium Meja 0303 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 304,
+    "nama_produk": "Gaming Jam 0304",
+    "kategori": "Mainan & Hobi",
+    "harga": 1835911.39,
+    "stok": 405,
+    "berat_gram": 7937,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jam 0304 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 305,
+    "nama_produk": "Classic Kursi 0305",
+    "kategori": "Hiburan",
+    "harga": 2181228.36,
+    "stok": 308,
+    "berat_gram": 2950,
+    "deskripsi": "Deskripsi singkat untuk Classic Kursi 0305 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 306,
+    "nama_produk": "Wireless Kamera 0306",
+    "kategori": "Elektronik",
+    "harga": 6971978.6,
+    "stok": 30,
+    "berat_gram": 2258,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kamera 0306 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 307,
+    "nama_produk": "Classic Tas 0307",
+    "kategori": "Olahraga",
+    "harga": 10501852.04,
+    "stok": 238,
+    "berat_gram": 8651,
+    "deskripsi": "Deskripsi singkat untuk Classic Tas 0307 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 308,
+    "nama_produk": "Smart Jaket 0308",
+    "kategori": "Fashion Wanita",
+    "harga": 2576561.63,
+    "stok": 61,
+    "berat_gram": 3810,
+    "deskripsi": "Deskripsi singkat untuk Smart Jaket 0308 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 309,
+    "nama_produk": "Wireless Headphone 0309",
+    "kategori": "Hiburan",
+    "harga": 11521900.69,
+    "stok": 279,
+    "berat_gram": 7091,
+    "deskripsi": "Deskripsi singkat untuk Wireless Headphone 0309 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 310,
+    "nama_produk": "Smart Drone 0310",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 6070150.81,
+    "stok": 388,
+    "berat_gram": 12060,
+    "deskripsi": "Deskripsi singkat untuk Smart Drone 0310 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 311,
+    "nama_produk": "Classic Buku 0311",
+    "kategori": "Hiburan",
+    "harga": 9257242.8,
+    "stok": 345,
+    "berat_gram": 15429,
+    "deskripsi": "Deskripsi singkat untuk Classic Buku 0311 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 312,
+    "nama_produk": "Pro Phone 0312",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 4630699.65,
+    "stok": 201,
+    "berat_gram": 8051,
+    "deskripsi": "Deskripsi singkat untuk Pro Phone 0312 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 313,
+    "nama_produk": "Vintage Tas 0313",
+    "kategori": "Hiburan",
+    "harga": 8404761.59,
+    "stok": 202,
+    "berat_gram": 6887,
+    "deskripsi": "Deskripsi singkat untuk Vintage Tas 0313 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 314,
+    "nama_produk": "Premium Kopi 0314",
+    "kategori": "Buku",
+    "harga": 4706867.48,
+    "stok": 295,
+    "berat_gram": 15961,
+    "deskripsi": "Deskripsi singkat untuk Premium Kopi 0314 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 315,
+    "nama_produk": "Classic Phone 0315",
+    "kategori": "Makanan & Minuman",
+    "harga": 9665321.7,
+    "stok": 162,
+    "berat_gram": 4586,
+    "deskripsi": "Deskripsi singkat untuk Classic Phone 0315 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 316,
+    "nama_produk": "Mini TV 0316",
+    "kategori": "Kesehatan",
+    "harga": 13928256.22,
+    "stok": 260,
+    "berat_gram": 15811,
+    "deskripsi": "Deskripsi singkat untuk Mini TV 0316 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 317,
+    "nama_produk": "Pro Sepatu 0317",
+    "kategori": "Perhiasan",
+    "harga": 6415869.1,
+    "stok": 367,
+    "berat_gram": 640,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0317 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 318,
+    "nama_produk": "Smart Buku 0318",
+    "kategori": "Olahraga",
+    "harga": 11583499.52,
+    "stok": 437,
+    "berat_gram": 10038,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0318 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 319,
+    "nama_produk": "Vintage Printer 0319",
+    "kategori": "Fashion Anak",
+    "harga": 2058817.57,
+    "stok": 54,
+    "berat_gram": 15867,
+    "deskripsi": "Deskripsi singkat untuk Vintage Printer 0319 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 320,
+    "nama_produk": "Pro Kamera 0320",
+    "kategori": "Fashion Pria",
+    "harga": 9156887.78,
+    "stok": 177,
+    "berat_gram": 18045,
+    "deskripsi": "Deskripsi singkat untuk Pro Kamera 0320 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 321,
+    "nama_produk": "Premium Buku 0321",
+    "kategori": "Fashion Wanita",
+    "harga": 5365080.12,
+    "stok": 65,
+    "berat_gram": 16104,
+    "deskripsi": "Deskripsi singkat untuk Premium Buku 0321 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 322,
+    "nama_produk": "Maxi Drone 0322",
+    "kategori": "Perhiasan",
+    "harga": 7941736.17,
+    "stok": 363,
+    "berat_gram": 6618,
+    "deskripsi": "Deskripsi singkat untuk Maxi Drone 0322 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 323,
+    "nama_produk": "Gaming Buku 0323",
+    "kategori": "Elektronik",
+    "harga": 3181724.13,
+    "stok": 432,
+    "berat_gram": 19196,
+    "deskripsi": "Deskripsi singkat untuk Gaming Buku 0323 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 324,
+    "nama_produk": "Gaming Phone 0324",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 380657.18,
+    "stok": 285,
+    "berat_gram": 227,
+    "deskripsi": "Deskripsi singkat untuk Gaming Phone 0324 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 325,
+    "nama_produk": "Mini Buku 0325",
+    "kategori": "Fashion Pria",
+    "harga": 11610489.19,
+    "stok": 77,
+    "berat_gram": 18298,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0325 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 326,
+    "nama_produk": "Smart TV 0326",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 8164945.22,
+    "stok": 68,
+    "berat_gram": 12163,
+    "deskripsi": "Deskripsi singkat untuk Smart TV 0326 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 327,
+    "nama_produk": "Eco Meja 0327",
+    "kategori": "Olahraga",
+    "harga": 10438130.23,
+    "stok": 364,
+    "berat_gram": 1772,
+    "deskripsi": "Deskripsi singkat untuk Eco Meja 0327 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 328,
+    "nama_produk": "Premium Phone 0328",
+    "kategori": "Hiburan",
+    "harga": 9007901.23,
+    "stok": 153,
+    "berat_gram": 7766,
+    "deskripsi": "Deskripsi singkat untuk Premium Phone 0328 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 329,
+    "nama_produk": "Premium Jaket 0329",
+    "kategori": "Perhiasan",
+    "harga": 8906496.82,
+    "stok": 22,
+    "berat_gram": 8725,
+    "deskripsi": "Deskripsi singkat untuk Premium Jaket 0329 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 330,
+    "nama_produk": "Smart Buku 0330",
+    "kategori": "Fashion Pria",
+    "harga": 9889983.41,
+    "stok": 137,
+    "berat_gram": 16379,
+    "deskripsi": "Deskripsi singkat untuk Smart Buku 0330 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 331,
+    "nama_produk": "Wireless Jam 0331",
+    "kategori": "Hiburan",
+    "harga": 4681010.81,
+    "stok": 425,
+    "berat_gram": 19365,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jam 0331 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 332,
+    "nama_produk": "Vintage Jaket 0332",
+    "kategori": "Fashion Anak",
+    "harga": 1627023.83,
+    "stok": 343,
+    "berat_gram": 4540,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jaket 0332 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 333,
+    "nama_produk": "Premium Buku 0333",
+    "kategori": "Mainan & Hobi",
+    "harga": 12572389.99,
+    "stok": 299,
+    "berat_gram": 681,
+    "deskripsi": "Deskripsi singkat untuk Premium Buku 0333 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 334,
+    "nama_produk": "Vintage Printer 0334",
+    "kategori": "Elektronik",
+    "harga": 5246629.6,
+    "stok": 442,
+    "berat_gram": 15947,
+    "deskripsi": "Deskripsi singkat untuk Vintage Printer 0334 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 335,
+    "nama_produk": "Maxi Jam 0335",
+    "kategori": "Kecantikan",
+    "harga": 10923046.07,
+    "stok": 238,
+    "berat_gram": 8646,
+    "deskripsi": "Deskripsi singkat untuk Maxi Jam 0335 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 336,
+    "nama_produk": "Mini Jaket 0336",
+    "kategori": "Mainan & Hobi",
+    "harga": 13018497.42,
+    "stok": 367,
+    "berat_gram": 11354,
+    "deskripsi": "Deskripsi singkat untuk Mini Jaket 0336 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 337,
+    "nama_produk": "Modern Jam 0337",
+    "kategori": "Fashion Anak",
+    "harga": 530368.74,
+    "stok": 6,
+    "berat_gram": 17988,
+    "deskripsi": "Deskripsi singkat untuk Modern Jam 0337 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 338,
+    "nama_produk": "Modern Drone 0338",
+    "kategori": "Fashion Pria",
+    "harga": 2204708.21,
+    "stok": 38,
+    "berat_gram": 578,
+    "deskripsi": "Deskripsi singkat untuk Modern Drone 0338 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 339,
+    "nama_produk": "Premium Kamera 0339",
+    "kategori": "Fashion Pria",
+    "harga": 165311.4,
+    "stok": 79,
+    "berat_gram": 11401,
+    "deskripsi": "Deskripsi singkat untuk Premium Kamera 0339 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 340,
+    "nama_produk": "Smart Kamera 0340",
+    "kategori": "Olahraga",
+    "harga": 12879843.09,
+    "stok": 287,
+    "berat_gram": 10281,
+    "deskripsi": "Deskripsi singkat untuk Smart Kamera 0340 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 341,
+    "nama_produk": "Maxi Buku 0341",
+    "kategori": "Kecantikan",
+    "harga": 121861.36,
+    "stok": 127,
+    "berat_gram": 10211,
+    "deskripsi": "Deskripsi singkat untuk Maxi Buku 0341 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 342,
+    "nama_produk": "Classic Kopi 0342",
+    "kategori": "Kesehatan",
+    "harga": 6797428.03,
+    "stok": 258,
+    "berat_gram": 6579,
+    "deskripsi": "Deskripsi singkat untuk Classic Kopi 0342 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 343,
+    "nama_produk": "Gaming Meja 0343",
+    "kategori": "Buku",
+    "harga": 1354337.19,
+    "stok": 444,
+    "berat_gram": 3921,
+    "deskripsi": "Deskripsi singkat untuk Gaming Meja 0343 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 344,
+    "nama_produk": "Vintage Headphone 0344",
+    "kategori": "Mainan & Hobi",
+    "harga": 12805862.99,
+    "stok": 275,
+    "berat_gram": 15333,
+    "deskripsi": "Deskripsi singkat untuk Vintage Headphone 0344 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 345,
+    "nama_produk": "Gaming Jam 0345",
+    "kategori": "Makanan & Minuman",
+    "harga": 2329101.87,
+    "stok": 233,
+    "berat_gram": 5848,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jam 0345 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 346,
+    "nama_produk": "Modern Kopi 0346",
+    "kategori": "Kesehatan",
+    "harga": 1953344.73,
+    "stok": 337,
+    "berat_gram": 18354,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0346 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 347,
+    "nama_produk": "Maxi TV 0347",
+    "kategori": "Kesehatan",
+    "harga": 6814365.8,
+    "stok": 420,
+    "berat_gram": 10862,
+    "deskripsi": "Deskripsi singkat untuk Maxi TV 0347 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 348,
+    "nama_produk": "Premium Phone 0348",
+    "kategori": "Fashion Pria",
+    "harga": 6674201.04,
+    "stok": 378,
+    "berat_gram": 14126,
+    "deskripsi": "Deskripsi singkat untuk Premium Phone 0348 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 349,
+    "nama_produk": "Classic Printer 0349",
+    "kategori": "Kecantikan",
+    "harga": 5239137.47,
+    "stok": 115,
+    "berat_gram": 6292,
+    "deskripsi": "Deskripsi singkat untuk Classic Printer 0349 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 350,
+    "nama_produk": "Maxi Phone 0350",
+    "kategori": "Mainan & Hobi",
+    "harga": 2300105.86,
+    "stok": 147,
+    "berat_gram": 3426,
+    "deskripsi": "Deskripsi singkat untuk Maxi Phone 0350 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 351,
+    "nama_produk": "Modern Phone 0351",
+    "kategori": "Fashion Wanita",
+    "harga": 9951227.85,
+    "stok": 225,
+    "berat_gram": 336,
+    "deskripsi": "Deskripsi singkat untuk Modern Phone 0351 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 352,
+    "nama_produk": "Modern Kamera 0352",
+    "kategori": "Elektronik",
+    "harga": 5239743.18,
+    "stok": 394,
+    "berat_gram": 9122,
+    "deskripsi": "Deskripsi singkat untuk Modern Kamera 0352 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 353,
+    "nama_produk": "Modern Jam 0353",
+    "kategori": "Makanan & Minuman",
+    "harga": 5156579.45,
+    "stok": 324,
+    "berat_gram": 11196,
+    "deskripsi": "Deskripsi singkat untuk Modern Jam 0353 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 354,
+    "nama_produk": "Smart Headphone 0354",
+    "kategori": "Kesehatan",
+    "harga": 1433751.83,
+    "stok": 90,
+    "berat_gram": 8390,
+    "deskripsi": "Deskripsi singkat untuk Smart Headphone 0354 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 355,
+    "nama_produk": "Eco Buku 0355",
+    "kategori": "Fashion Anak",
+    "harga": 9140219.13,
+    "stok": 302,
+    "berat_gram": 15986,
+    "deskripsi": "Deskripsi singkat untuk Eco Buku 0355 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 356,
+    "nama_produk": "Classic Kopi 0356",
+    "kategori": "Kesehatan",
+    "harga": 589614.27,
+    "stok": 141,
+    "berat_gram": 10187,
+    "deskripsi": "Deskripsi singkat untuk Classic Kopi 0356 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 357,
+    "nama_produk": "Pro Sepatu 0357",
+    "kategori": "Buku",
+    "harga": 7491674.36,
+    "stok": 276,
+    "berat_gram": 13216,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0357 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 358,
+    "nama_produk": "Pro TV 0358",
+    "kategori": "Hiburan",
+    "harga": 13124912.2,
+    "stok": 76,
+    "berat_gram": 14429,
+    "deskripsi": "Deskripsi singkat untuk Pro TV 0358 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 359,
+    "nama_produk": "Mini Kopi 0359",
+    "kategori": "Olahraga",
+    "harga": 6046449.38,
+    "stok": 114,
+    "berat_gram": 11720,
+    "deskripsi": "Deskripsi singkat untuk Mini Kopi 0359 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 360,
+    "nama_produk": "Premium Drone 0360",
+    "kategori": "Hiburan",
+    "harga": 4676442.64,
+    "stok": 77,
+    "berat_gram": 12819,
+    "deskripsi": "Deskripsi singkat untuk Premium Drone 0360 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 361,
+    "nama_produk": "Premium TV 0361",
+    "kategori": "Fashion Pria",
+    "harga": 4652728.07,
+    "stok": 241,
+    "berat_gram": 2653,
+    "deskripsi": "Deskripsi singkat untuk Premium TV 0361 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 362,
+    "nama_produk": "Wireless Sepatu 0362",
+    "kategori": "Fashion Pria",
+    "harga": 7592046.89,
+    "stok": 328,
+    "berat_gram": 18639,
+    "deskripsi": "Deskripsi singkat untuk Wireless Sepatu 0362 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 363,
+    "nama_produk": "Vintage Kopi 0363",
+    "kategori": "Kesehatan",
+    "harga": 1324681.58,
+    "stok": 96,
+    "berat_gram": 8927,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kopi 0363 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 364,
+    "nama_produk": "Eco TV 0364",
+    "kategori": "Elektronik",
+    "harga": 2641910.46,
+    "stok": 402,
+    "berat_gram": 1225,
+    "deskripsi": "Deskripsi singkat untuk Eco TV 0364 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 365,
+    "nama_produk": "Classic Phone 0365",
+    "kategori": "Hiburan",
+    "harga": 3099222.97,
+    "stok": 150,
+    "berat_gram": 8558,
+    "deskripsi": "Deskripsi singkat untuk Classic Phone 0365 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 366,
+    "nama_produk": "Pro Sepatu 0366",
+    "kategori": "Perhiasan",
+    "harga": 11732267.33,
+    "stok": 293,
+    "berat_gram": 1684,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0366 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 367,
+    "nama_produk": "Smart Kursi 0367",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 11159917.02,
+    "stok": 412,
+    "berat_gram": 3483,
+    "deskripsi": "Deskripsi singkat untuk Smart Kursi 0367 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 368,
+    "nama_produk": "Vintage Headphone 0368",
+    "kategori": "Fashion Wanita",
+    "harga": 7666283.85,
+    "stok": 169,
+    "berat_gram": 18041,
+    "deskripsi": "Deskripsi singkat untuk Vintage Headphone 0368 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 369,
+    "nama_produk": "Maxi Phone 0369",
+    "kategori": "Mainan & Hobi",
+    "harga": 4678186.83,
+    "stok": 178,
+    "berat_gram": 4663,
+    "deskripsi": "Deskripsi singkat untuk Maxi Phone 0369 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 370,
+    "nama_produk": "Modern Kopi 0370",
+    "kategori": "Rumah Tangga",
+    "harga": 3529476.92,
+    "stok": 75,
+    "berat_gram": 6611,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0370 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 371,
+    "nama_produk": "Vintage Drone 0371",
+    "kategori": "Kecantikan",
+    "harga": 6858402.05,
+    "stok": 266,
+    "berat_gram": 19091,
+    "deskripsi": "Deskripsi singkat untuk Vintage Drone 0371 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 372,
+    "nama_produk": "Mini Headphone 0372",
+    "kategori": "Otomotif",
+    "harga": 11548732.9,
+    "stok": 387,
+    "berat_gram": 15455,
+    "deskripsi": "Deskripsi singkat untuk Mini Headphone 0372 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 373,
+    "nama_produk": "Smart TV 0373",
+    "kategori": "Perhiasan",
+    "harga": 14883018.41,
+    "stok": 196,
+    "berat_gram": 11448,
+    "deskripsi": "Deskripsi singkat untuk Smart TV 0373 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 374,
+    "nama_produk": "Eco Sepatu 0374",
+    "kategori": "Kesehatan",
+    "harga": 5042921.2,
+    "stok": 467,
+    "berat_gram": 15060,
+    "deskripsi": "Deskripsi singkat untuk Eco Sepatu 0374 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 375,
+    "nama_produk": "Smart Jam 0375",
+    "kategori": "Olahraga",
+    "harga": 8823578.29,
+    "stok": 426,
+    "berat_gram": 1375,
+    "deskripsi": "Deskripsi singkat untuk Smart Jam 0375 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 376,
+    "nama_produk": "Eco Buku 0376",
+    "kategori": "Rumah Tangga",
+    "harga": 14160670.17,
+    "stok": 264,
+    "berat_gram": 2788,
+    "deskripsi": "Deskripsi singkat untuk Eco Buku 0376 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 377,
+    "nama_produk": "Mini Jaket 0377",
+    "kategori": "Perhiasan",
+    "harga": 3854181.43,
+    "stok": 20,
+    "berat_gram": 288,
+    "deskripsi": "Deskripsi singkat untuk Mini Jaket 0377 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 378,
+    "nama_produk": "Smart Tas 0378",
+    "kategori": "Elektronik",
+    "harga": 4575475.48,
+    "stok": 447,
+    "berat_gram": 19126,
+    "deskripsi": "Deskripsi singkat untuk Smart Tas 0378 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 379,
+    "nama_produk": "Modern Headphone 0379",
+    "kategori": "Perhiasan",
+    "harga": 7227457.26,
+    "stok": 90,
+    "berat_gram": 17125,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0379 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 380,
+    "nama_produk": "Maxi Meja 0380",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 12493286.94,
+    "stok": 103,
+    "berat_gram": 12943,
+    "deskripsi": "Deskripsi singkat untuk Maxi Meja 0380 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 381,
+    "nama_produk": "Pro Kopi 0381",
+    "kategori": "Fashion Pria",
+    "harga": 2043189.25,
+    "stok": 14,
+    "berat_gram": 4957,
+    "deskripsi": "Deskripsi singkat untuk Pro Kopi 0381 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 382,
+    "nama_produk": "Gaming Printer 0382",
+    "kategori": "Fashion Anak",
+    "harga": 11853499.25,
+    "stok": 158,
+    "berat_gram": 554,
+    "deskripsi": "Deskripsi singkat untuk Gaming Printer 0382 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 383,
+    "nama_produk": "Smart Kopi 0383",
+    "kategori": "Buku",
+    "harga": 6740734.09,
+    "stok": 163,
+    "berat_gram": 4461,
+    "deskripsi": "Deskripsi singkat untuk Smart Kopi 0383 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 384,
+    "nama_produk": "Classic Kopi 0384",
+    "kategori": "Fashion Wanita",
+    "harga": 13501982.78,
+    "stok": 284,
+    "berat_gram": 3936,
+    "deskripsi": "Deskripsi singkat untuk Classic Kopi 0384 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 385,
+    "nama_produk": "Modern Printer 0385",
+    "kategori": "Hiburan",
+    "harga": 11385828.93,
+    "stok": 436,
+    "berat_gram": 8589,
+    "deskripsi": "Deskripsi singkat untuk Modern Printer 0385 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 386,
+    "nama_produk": "Pro Printer 0386",
+    "kategori": "Fashion Anak",
+    "harga": 6368267.86,
+    "stok": 423,
+    "berat_gram": 16456,
+    "deskripsi": "Deskripsi singkat untuk Pro Printer 0386 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 387,
+    "nama_produk": "Gaming Kursi 0387",
+    "kategori": "Olahraga",
+    "harga": 9589294.95,
+    "stok": 300,
+    "berat_gram": 17844,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kursi 0387 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 388,
+    "nama_produk": "Pro Sepatu 0388",
+    "kategori": "Makanan & Minuman",
+    "harga": 4624309.51,
+    "stok": 240,
+    "berat_gram": 2244,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0388 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 389,
+    "nama_produk": "Gaming Jaket 0389",
+    "kategori": "Perhiasan",
+    "harga": 8691882.62,
+    "stok": 165,
+    "berat_gram": 11765,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jaket 0389 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 390,
+    "nama_produk": "Mini Headphone 0390",
+    "kategori": "Elektronik",
+    "harga": 9210297.35,
+    "stok": 463,
+    "berat_gram": 10237,
+    "deskripsi": "Deskripsi singkat untuk Mini Headphone 0390 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 391,
+    "nama_produk": "Mini Meja 0391",
+    "kategori": "Kecantikan",
+    "harga": 1763060.79,
+    "stok": 494,
+    "berat_gram": 13631,
+    "deskripsi": "Deskripsi singkat untuk Mini Meja 0391 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 392,
+    "nama_produk": "Pro Kopi 0392",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 4383975.07,
+    "stok": 297,
+    "berat_gram": 13133,
+    "deskripsi": "Deskripsi singkat untuk Pro Kopi 0392 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 393,
+    "nama_produk": "Premium Kamera 0393",
+    "kategori": "Mainan & Hobi",
+    "harga": 2885449.05,
+    "stok": 361,
+    "berat_gram": 13001,
+    "deskripsi": "Deskripsi singkat untuk Premium Kamera 0393 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 394,
+    "nama_produk": "Modern Headphone 0394",
+    "kategori": "Mainan & Hobi",
+    "harga": 13806310.85,
+    "stok": 475,
+    "berat_gram": 6360,
+    "deskripsi": "Deskripsi singkat untuk Modern Headphone 0394 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 395,
+    "nama_produk": "Pro Drone 0395",
+    "kategori": "Kecantikan",
+    "harga": 11707894.8,
+    "stok": 176,
+    "berat_gram": 3621,
+    "deskripsi": "Deskripsi singkat untuk Pro Drone 0395 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 396,
+    "nama_produk": "Pro Printer 0396",
+    "kategori": "Kesehatan",
+    "harga": 10149188.95,
+    "stok": 248,
+    "berat_gram": 6005,
+    "deskripsi": "Deskripsi singkat untuk Pro Printer 0396 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 397,
+    "nama_produk": "Premium Buku 0397",
+    "kategori": "Perhiasan",
+    "harga": 1472206.23,
+    "stok": 71,
+    "berat_gram": 3011,
+    "deskripsi": "Deskripsi singkat untuk Premium Buku 0397 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 398,
+    "nama_produk": "Mini Tas 0398",
+    "kategori": "Kecantikan",
+    "harga": 136085.15,
+    "stok": 336,
+    "berat_gram": 17028,
+    "deskripsi": "Deskripsi singkat untuk Mini Tas 0398 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 399,
+    "nama_produk": "Wireless Meja 0399",
+    "kategori": "Fashion Anak",
+    "harga": 14531486.59,
+    "stok": 53,
+    "berat_gram": 19598,
+    "deskripsi": "Deskripsi singkat untuk Wireless Meja 0399 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 400,
+    "nama_produk": "Eco Buku 0400",
+    "kategori": "Fashion Anak",
+    "harga": 10615198.46,
+    "stok": 408,
+    "berat_gram": 19220,
+    "deskripsi": "Deskripsi singkat untuk Eco Buku 0400 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 401,
+    "nama_produk": "Wireless Printer 0401",
+    "kategori": "Perhiasan",
+    "harga": 9006562.58,
+    "stok": 97,
+    "berat_gram": 17302,
+    "deskripsi": "Deskripsi singkat untuk Wireless Printer 0401 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 402,
+    "nama_produk": "Modern Sepatu 0402",
+    "kategori": "Hiburan",
+    "harga": 11755758.46,
+    "stok": 429,
+    "berat_gram": 1523,
+    "deskripsi": "Deskripsi singkat untuk Modern Sepatu 0402 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 403,
+    "nama_produk": "Wireless Kopi 0403",
+    "kategori": "Rumah Tangga",
+    "harga": 10382237.53,
+    "stok": 348,
+    "berat_gram": 4070,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kopi 0403 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 404,
+    "nama_produk": "Classic Jaket 0404",
+    "kategori": "Otomotif",
+    "harga": 3497303.47,
+    "stok": 74,
+    "berat_gram": 17234,
+    "deskripsi": "Deskripsi singkat untuk Classic Jaket 0404 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 405,
+    "nama_produk": "Wireless Jam 0405",
+    "kategori": "Fashion Wanita",
+    "harga": 1710152.18,
+    "stok": 216,
+    "berat_gram": 5118,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jam 0405 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 406,
+    "nama_produk": "Mini Meja 0406",
+    "kategori": "Olahraga",
+    "harga": 12654767.89,
+    "stok": 176,
+    "berat_gram": 15371,
+    "deskripsi": "Deskripsi singkat untuk Mini Meja 0406 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 407,
+    "nama_produk": "Wireless Buku 0407",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 8163147.37,
+    "stok": 30,
+    "berat_gram": 13523,
+    "deskripsi": "Deskripsi singkat untuk Wireless Buku 0407 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 408,
+    "nama_produk": "Eco Printer 0408",
+    "kategori": "Makanan & Minuman",
+    "harga": 1503327.82,
+    "stok": 125,
+    "berat_gram": 542,
+    "deskripsi": "Deskripsi singkat untuk Eco Printer 0408 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 409,
+    "nama_produk": "Premium Printer 0409",
+    "kategori": "Fashion Wanita",
+    "harga": 3380108.42,
+    "stok": 455,
+    "berat_gram": 17311,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0409 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 410,
+    "nama_produk": "Mini Phone 0410",
+    "kategori": "Kesehatan",
+    "harga": 4717146.7,
+    "stok": 141,
+    "berat_gram": 11518,
+    "deskripsi": "Deskripsi singkat untuk Mini Phone 0410 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 411,
+    "nama_produk": "Maxi Meja 0411",
+    "kategori": "Elektronik",
+    "harga": 9987767.39,
+    "stok": 274,
+    "berat_gram": 461,
+    "deskripsi": "Deskripsi singkat untuk Maxi Meja 0411 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 412,
+    "nama_produk": "Vintage Meja 0412",
+    "kategori": "Fashion Anak",
+    "harga": 2483856.89,
+    "stok": 292,
+    "berat_gram": 16500,
+    "deskripsi": "Deskripsi singkat untuk Vintage Meja 0412 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 413,
+    "nama_produk": "Modern Kopi 0413",
+    "kategori": "Otomotif",
+    "harga": 14160368.4,
+    "stok": 430,
+    "berat_gram": 1200,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0413 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 414,
+    "nama_produk": "Vintage Phone 0414",
+    "kategori": "Buku",
+    "harga": 3440844.81,
+    "stok": 214,
+    "berat_gram": 18989,
+    "deskripsi": "Deskripsi singkat untuk Vintage Phone 0414 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 415,
+    "nama_produk": "Premium Phone 0415",
+    "kategori": "Hiburan",
+    "harga": 8740777.11,
+    "stok": 18,
+    "berat_gram": 4963,
+    "deskripsi": "Deskripsi singkat untuk Premium Phone 0415 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 416,
+    "nama_produk": "Mini Jam 0416",
+    "kategori": "Kesehatan",
+    "harga": 892594.12,
+    "stok": 110,
+    "berat_gram": 15825,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0416 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 417,
+    "nama_produk": "Wireless Tas 0417",
+    "kategori": "Fashion Wanita",
+    "harga": 2845093.9,
+    "stok": 332,
+    "berat_gram": 15873,
+    "deskripsi": "Deskripsi singkat untuk Wireless Tas 0417 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 418,
+    "nama_produk": "Premium Drone 0418",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 1658383.47,
+    "stok": 490,
+    "berat_gram": 11844,
+    "deskripsi": "Deskripsi singkat untuk Premium Drone 0418 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 419,
+    "nama_produk": "Modern Phone 0419",
+    "kategori": "Otomotif",
+    "harga": 10767512.22,
+    "stok": 314,
+    "berat_gram": 2252,
+    "deskripsi": "Deskripsi singkat untuk Modern Phone 0419 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 420,
+    "nama_produk": "Eco Meja 0420",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 1808539.51,
+    "stok": 369,
+    "berat_gram": 2423,
+    "deskripsi": "Deskripsi singkat untuk Eco Meja 0420 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 421,
+    "nama_produk": "Classic Phone 0421",
+    "kategori": "Rumah Tangga",
+    "harga": 11472897.11,
+    "stok": 211,
+    "berat_gram": 12400,
+    "deskripsi": "Deskripsi singkat untuk Classic Phone 0421 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 422,
+    "nama_produk": "Vintage Sepatu 0422",
+    "kategori": "Olahraga",
+    "harga": 100580.42,
+    "stok": 347,
+    "berat_gram": 7836,
+    "deskripsi": "Deskripsi singkat untuk Vintage Sepatu 0422 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 423,
+    "nama_produk": "Maxi Jam 0423",
+    "kategori": "Olahraga",
+    "harga": 7479089.43,
+    "stok": 422,
+    "berat_gram": 726,
+    "deskripsi": "Deskripsi singkat untuk Maxi Jam 0423 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 424,
+    "nama_produk": "Eco Kopi 0424",
+    "kategori": "Olahraga",
+    "harga": 2285643.4,
+    "stok": 73,
+    "berat_gram": 13378,
+    "deskripsi": "Deskripsi singkat untuk Eco Kopi 0424 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 425,
+    "nama_produk": "Classic Sepatu 0425",
+    "kategori": "Elektronik",
+    "harga": 8259457.68,
+    "stok": 481,
+    "berat_gram": 8249,
+    "deskripsi": "Deskripsi singkat untuk Classic Sepatu 0425 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 426,
+    "nama_produk": "Pro Phone 0426",
+    "kategori": "Hiburan",
+    "harga": 3405905.38,
+    "stok": 69,
+    "berat_gram": 7669,
+    "deskripsi": "Deskripsi singkat untuk Pro Phone 0426 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 427,
+    "nama_produk": "Premium Kamera 0427",
+    "kategori": "Otomotif",
+    "harga": 11969405.17,
+    "stok": 48,
+    "berat_gram": 8879,
+    "deskripsi": "Deskripsi singkat untuk Premium Kamera 0427 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 428,
+    "nama_produk": "Premium Phone 0428",
+    "kategori": "Makanan & Minuman",
+    "harga": 3423119.28,
+    "stok": 119,
+    "berat_gram": 16176,
+    "deskripsi": "Deskripsi singkat untuk Premium Phone 0428 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 429,
+    "nama_produk": "Wireless Sepatu 0429",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 3832024.34,
+    "stok": 96,
+    "berat_gram": 18839,
+    "deskripsi": "Deskripsi singkat untuk Wireless Sepatu 0429 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 430,
+    "nama_produk": "Eco Kopi 0430",
+    "kategori": "Fashion Wanita",
+    "harga": 6578466.39,
+    "stok": 166,
+    "berat_gram": 5535,
+    "deskripsi": "Deskripsi singkat untuk Eco Kopi 0430 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 431,
+    "nama_produk": "Eco Printer 0431",
+    "kategori": "Kesehatan",
+    "harga": 4996453.89,
+    "stok": 227,
+    "berat_gram": 4700,
+    "deskripsi": "Deskripsi singkat untuk Eco Printer 0431 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 432,
+    "nama_produk": "Mini Buku 0432",
+    "kategori": "Buku",
+    "harga": 14386363.74,
+    "stok": 315,
+    "berat_gram": 3881,
+    "deskripsi": "Deskripsi singkat untuk Mini Buku 0432 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 433,
+    "nama_produk": "Wireless Jam 0433",
+    "kategori": "Fashion Wanita",
+    "harga": 10267765.32,
+    "stok": 8,
+    "berat_gram": 19806,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jam 0433 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 434,
+    "nama_produk": "Maxi Buku 0434",
+    "kategori": "Makanan & Minuman",
+    "harga": 2144905.53,
+    "stok": 143,
+    "berat_gram": 8145,
+    "deskripsi": "Deskripsi singkat untuk Maxi Buku 0434 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 435,
+    "nama_produk": "Mini Printer 0435",
+    "kategori": "Mainan & Hobi",
+    "harga": 268076.66,
+    "stok": 302,
+    "berat_gram": 7579,
+    "deskripsi": "Deskripsi singkat untuk Mini Printer 0435 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 436,
+    "nama_produk": "Wireless Phone 0436",
+    "kategori": "Kecantikan",
+    "harga": 6349610.7,
+    "stok": 270,
+    "berat_gram": 6358,
+    "deskripsi": "Deskripsi singkat untuk Wireless Phone 0436 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 437,
+    "nama_produk": "Mini Jam 0437",
+    "kategori": "Olahraga",
+    "harga": 1177352.45,
+    "stok": 461,
+    "berat_gram": 16968,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0437 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 438,
+    "nama_produk": "Premium Printer 0438",
+    "kategori": "Buku",
+    "harga": 6984363.46,
+    "stok": 289,
+    "berat_gram": 19605,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0438 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 439,
+    "nama_produk": "Premium Printer 0439",
+    "kategori": "Hiburan",
+    "harga": 10375528.34,
+    "stok": 130,
+    "berat_gram": 4111,
+    "deskripsi": "Deskripsi singkat untuk Premium Printer 0439 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 440,
+    "nama_produk": "Premium Jam 0440",
+    "kategori": "Fashion Anak",
+    "harga": 1313104.27,
+    "stok": 228,
+    "berat_gram": 12151,
+    "deskripsi": "Deskripsi singkat untuk Premium Jam 0440 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 441,
+    "nama_produk": "Gaming Headphone 0441",
+    "kategori": "Makanan & Minuman",
+    "harga": 4078856.3,
+    "stok": 376,
+    "berat_gram": 2615,
+    "deskripsi": "Deskripsi singkat untuk Gaming Headphone 0441 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 442,
+    "nama_produk": "Eco Sepatu 0442",
+    "kategori": "Fashion Anak",
+    "harga": 3061816.05,
+    "stok": 160,
+    "berat_gram": 8015,
+    "deskripsi": "Deskripsi singkat untuk Eco Sepatu 0442 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 443,
+    "nama_produk": "Classic Kopi 0443",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 13618101.27,
+    "stok": 107,
+    "berat_gram": 2238,
+    "deskripsi": "Deskripsi singkat untuk Classic Kopi 0443 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 444,
+    "nama_produk": "Pro Jam 0444",
+    "kategori": "Fashion Anak",
+    "harga": 11984262.71,
+    "stok": 439,
+    "berat_gram": 8442,
+    "deskripsi": "Deskripsi singkat untuk Pro Jam 0444 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 445,
+    "nama_produk": "Gaming TV 0445",
+    "kategori": "Otomotif",
+    "harga": 13908180.01,
+    "stok": 42,
+    "berat_gram": 10987,
+    "deskripsi": "Deskripsi singkat untuk Gaming TV 0445 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 446,
+    "nama_produk": "Smart Kursi 0446",
+    "kategori": "Fashion Anak",
+    "harga": 12647648.54,
+    "stok": 107,
+    "berat_gram": 16869,
+    "deskripsi": "Deskripsi singkat untuk Smart Kursi 0446 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 447,
+    "nama_produk": "Mini Kursi 0447",
+    "kategori": "Otomotif",
+    "harga": 14916513.68,
+    "stok": 404,
+    "berat_gram": 7895,
+    "deskripsi": "Deskripsi singkat untuk Mini Kursi 0447 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 448,
+    "nama_produk": "Vintage Kopi 0448",
+    "kategori": "Otomotif",
+    "harga": 14342540.13,
+    "stok": 54,
+    "berat_gram": 4285,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kopi 0448 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 449,
+    "nama_produk": "Gaming Jam 0449",
+    "kategori": "Kecantikan",
+    "harga": 747100.73,
+    "stok": 172,
+    "berat_gram": 9109,
+    "deskripsi": "Deskripsi singkat untuk Gaming Jam 0449 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 450,
+    "nama_produk": "Modern Jaket 0450",
+    "kategori": "Otomotif",
+    "harga": 4619578.29,
+    "stok": 113,
+    "berat_gram": 19196,
+    "deskripsi": "Deskripsi singkat untuk Modern Jaket 0450 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 451,
+    "nama_produk": "Premium Meja 0451",
+    "kategori": "Fashion Anak",
+    "harga": 4704989.56,
+    "stok": 246,
+    "berat_gram": 19577,
+    "deskripsi": "Deskripsi singkat untuk Premium Meja 0451 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 452,
+    "nama_produk": "Classic Jam 0452",
+    "kategori": "Fashion Pria",
+    "harga": 4597069.29,
+    "stok": 457,
+    "berat_gram": 3366,
+    "deskripsi": "Deskripsi singkat untuk Classic Jam 0452 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 453,
+    "nama_produk": "Pro Sepatu 0453",
+    "kategori": "Olahraga",
+    "harga": 7892655.86,
+    "stok": 240,
+    "berat_gram": 5065,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0453 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 454,
+    "nama_produk": "Mini Jam 0454",
+    "kategori": "Fashion Wanita",
+    "harga": 7434246.5,
+    "stok": 433,
+    "berat_gram": 623,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0454 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 455,
+    "nama_produk": "Modern Sepatu 0455",
+    "kategori": "Hiburan",
+    "harga": 12332066.05,
+    "stok": 445,
+    "berat_gram": 12218,
+    "deskripsi": "Deskripsi singkat untuk Modern Sepatu 0455 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 456,
+    "nama_produk": "Maxi Sepatu 0456",
+    "kategori": "Perhiasan",
+    "harga": 4002075.84,
+    "stok": 92,
+    "berat_gram": 4182,
+    "deskripsi": "Deskripsi singkat untuk Maxi Sepatu 0456 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 457,
+    "nama_produk": "Smart Sepatu 0457",
+    "kategori": "Fashion Anak",
+    "harga": 3226404.25,
+    "stok": 90,
+    "berat_gram": 16554,
+    "deskripsi": "Deskripsi singkat untuk Smart Sepatu 0457 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 458,
+    "nama_produk": "Mini Jam 0458",
+    "kategori": "Perhiasan",
+    "harga": 2018346.07,
+    "stok": 495,
+    "berat_gram": 9792,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0458 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 459,
+    "nama_produk": "Modern Drone 0459",
+    "kategori": "Fashion Anak",
+    "harga": 2150730.66,
+    "stok": 134,
+    "berat_gram": 2831,
+    "deskripsi": "Deskripsi singkat untuk Modern Drone 0459 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 460,
+    "nama_produk": "Classic TV 0460",
+    "kategori": "Buku",
+    "harga": 5002376.34,
+    "stok": 132,
+    "berat_gram": 8976,
+    "deskripsi": "Deskripsi singkat untuk Classic TV 0460 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 461,
+    "nama_produk": "Mini Jam 0461",
+    "kategori": "Rumah Tangga",
+    "harga": 509474.72,
+    "stok": 265,
+    "berat_gram": 6196,
+    "deskripsi": "Deskripsi singkat untuk Mini Jam 0461 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 462,
+    "nama_produk": "Smart Meja 0462",
+    "kategori": "Perhiasan",
+    "harga": 13750146.82,
+    "stok": 66,
+    "berat_gram": 7715,
+    "deskripsi": "Deskripsi singkat untuk Smart Meja 0462 dari kategori Perhiasan.",
+    "tersedia": true
+  },
+  {
+    "id": 463,
+    "nama_produk": "Mini Printer 0463",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 9653853.09,
+    "stok": 100,
+    "berat_gram": 15788,
+    "deskripsi": "Deskripsi singkat untuk Mini Printer 0463 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 464,
+    "nama_produk": "Eco Drone 0464",
+    "kategori": "Kesehatan",
+    "harga": 10215212.42,
+    "stok": 193,
+    "berat_gram": 7677,
+    "deskripsi": "Deskripsi singkat untuk Eco Drone 0464 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 465,
+    "nama_produk": "Premium Sepatu 0465",
+    "kategori": "Hiburan",
+    "harga": 2537772.91,
+    "stok": 209,
+    "berat_gram": 9874,
+    "deskripsi": "Deskripsi singkat untuk Premium Sepatu 0465 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 466,
+    "nama_produk": "Maxi Jam 0466",
+    "kategori": "Hiburan",
+    "harga": 12660105.62,
+    "stok": 98,
+    "berat_gram": 11712,
+    "deskripsi": "Deskripsi singkat untuk Maxi Jam 0466 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 467,
+    "nama_produk": "Eco TV 0467",
+    "kategori": "Kecantikan",
+    "harga": 12687712.43,
+    "stok": 500,
+    "berat_gram": 3697,
+    "deskripsi": "Deskripsi singkat untuk Eco TV 0467 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 468,
+    "nama_produk": "Classic Sepatu 0468",
+    "kategori": "Kesehatan",
+    "harga": 12475237.58,
+    "stok": 147,
+    "berat_gram": 11632,
+    "deskripsi": "Deskripsi singkat untuk Classic Sepatu 0468 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 469,
+    "nama_produk": "Mini Drone 0469",
+    "kategori": "Olahraga",
+    "harga": 912938.67,
+    "stok": 60,
+    "berat_gram": 16194,
+    "deskripsi": "Deskripsi singkat untuk Mini Drone 0469 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 470,
+    "nama_produk": "Modern Printer 0470",
+    "kategori": "Fashion Pria",
+    "harga": 2630563.01,
+    "stok": 62,
+    "berat_gram": 1699,
+    "deskripsi": "Deskripsi singkat untuk Modern Printer 0470 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 471,
+    "nama_produk": "Mini Tas 0471",
+    "kategori": "Olahraga",
+    "harga": 1141991.51,
+    "stok": 364,
+    "berat_gram": 1846,
+    "deskripsi": "Deskripsi singkat untuk Mini Tas 0471 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 472,
+    "nama_produk": "Eco Kamera 0472",
+    "kategori": "Hiburan",
+    "harga": 799166.53,
+    "stok": 490,
+    "berat_gram": 18535,
+    "deskripsi": "Deskripsi singkat untuk Eco Kamera 0472 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 473,
+    "nama_produk": "Eco TV 0473",
+    "kategori": "Rumah Tangga",
+    "harga": 10106729.2,
+    "stok": 280,
+    "berat_gram": 6100,
+    "deskripsi": "Deskripsi singkat untuk Eco TV 0473 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 474,
+    "nama_produk": "Wireless Kopi 0474",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 14157748.97,
+    "stok": 157,
+    "berat_gram": 6581,
+    "deskripsi": "Deskripsi singkat untuk Wireless Kopi 0474 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 475,
+    "nama_produk": "Wireless Headphone 0475",
+    "kategori": "Buku",
+    "harga": 660552.52,
+    "stok": 25,
+    "berat_gram": 2527,
+    "deskripsi": "Deskripsi singkat untuk Wireless Headphone 0475 dari kategori Buku.",
+    "tersedia": true
+  },
+  {
+    "id": 476,
+    "nama_produk": "Vintage Kopi 0476",
+    "kategori": "Kesehatan",
+    "harga": 13954787.69,
+    "stok": 363,
+    "berat_gram": 2518,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kopi 0476 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 477,
+    "nama_produk": "Modern Kopi 0477",
+    "kategori": "Fashion Pria",
+    "harga": 8366327.47,
+    "stok": 390,
+    "berat_gram": 16510,
+    "deskripsi": "Deskripsi singkat untuk Modern Kopi 0477 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 478,
+    "nama_produk": "Smart Printer 0478",
+    "kategori": "Fashion Wanita",
+    "harga": 5326505.48,
+    "stok": 426,
+    "berat_gram": 17379,
+    "deskripsi": "Deskripsi singkat untuk Smart Printer 0478 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 479,
+    "nama_produk": "Classic TV 0479",
+    "kategori": "Makanan & Minuman",
+    "harga": 2724792.9,
+    "stok": 78,
+    "berat_gram": 6769,
+    "deskripsi": "Deskripsi singkat untuk Classic TV 0479 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  },
+  {
+    "id": 480,
+    "nama_produk": "Maxi Buku 0480",
+    "kategori": "Hiburan",
+    "harga": 8678377.72,
+    "stok": 207,
+    "berat_gram": 6807,
+    "deskripsi": "Deskripsi singkat untuk Maxi Buku 0480 dari kategori Hiburan.",
+    "tersedia": true
+  },
+  {
+    "id": 481,
+    "nama_produk": "Modern Kamera 0481",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 8638110.97,
+    "stok": 459,
+    "berat_gram": 10045,
+    "deskripsi": "Deskripsi singkat untuk Modern Kamera 0481 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 482,
+    "nama_produk": "Mini Meja 0482",
+    "kategori": "Elektronik",
+    "harga": 11724666.68,
+    "stok": 477,
+    "berat_gram": 14562,
+    "deskripsi": "Deskripsi singkat untuk Mini Meja 0482 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 483,
+    "nama_produk": "Wireless Jam 0483",
+    "kategori": "Elektronik",
+    "harga": 6437719.57,
+    "stok": 316,
+    "berat_gram": 2485,
+    "deskripsi": "Deskripsi singkat untuk Wireless Jam 0483 dari kategori Elektronik.",
+    "tersedia": true
+  },
+  {
+    "id": 484,
+    "nama_produk": "Mini Jaket 0484",
+    "kategori": "Otomotif",
+    "harga": 9679695.38,
+    "stok": 112,
+    "berat_gram": 1908,
+    "deskripsi": "Deskripsi singkat untuk Mini Jaket 0484 dari kategori Otomotif.",
+    "tersedia": true
+  },
+  {
+    "id": 485,
+    "nama_produk": "Gaming Kamera 0485",
+    "kategori": "Fashion Pria",
+    "harga": 6011230.45,
+    "stok": 139,
+    "berat_gram": 15281,
+    "deskripsi": "Deskripsi singkat untuk Gaming Kamera 0485 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 486,
+    "nama_produk": "Premium Jaket 0486",
+    "kategori": "Kecantikan",
+    "harga": 12424262.72,
+    "stok": 188,
+    "berat_gram": 13471,
+    "deskripsi": "Deskripsi singkat untuk Premium Jaket 0486 dari kategori Kecantikan.",
+    "tersedia": true
+  },
+  {
+    "id": 487,
+    "nama_produk": "Premium Tas 0487",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 9714561.29,
+    "stok": 95,
+    "berat_gram": 4800,
+    "deskripsi": "Deskripsi singkat untuk Premium Tas 0487 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 488,
+    "nama_produk": "Eco Tas 0488",
+    "kategori": "Perlengkapan Kantor",
+    "harga": 12538890.86,
+    "stok": 16,
+    "berat_gram": 17569,
+    "deskripsi": "Deskripsi singkat untuk Eco Tas 0488 dari kategori Perlengkapan Kantor.",
+    "tersedia": true
+  },
+  {
+    "id": 489,
+    "nama_produk": "Vintage Drone 0489",
+    "kategori": "Rumah Tangga",
+    "harga": 9720818.62,
+    "stok": 305,
+    "berat_gram": 2518,
+    "deskripsi": "Deskripsi singkat untuk Vintage Drone 0489 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 490,
+    "nama_produk": "Mini Printer 0490",
+    "kategori": "Olahraga",
+    "harga": 13904061.6,
+    "stok": 239,
+    "berat_gram": 5858,
+    "deskripsi": "Deskripsi singkat untuk Mini Printer 0490 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 491,
+    "nama_produk": "Vintage Kamera 0491",
+    "kategori": "Olahraga",
+    "harga": 3039085.47,
+    "stok": 417,
+    "berat_gram": 1144,
+    "deskripsi": "Deskripsi singkat untuk Vintage Kamera 0491 dari kategori Olahraga.",
+    "tersedia": true
+  },
+  {
+    "id": 492,
+    "nama_produk": "Modern Meja 0492",
+    "kategori": "Rumah Tangga",
+    "harga": 4789452.32,
+    "stok": 267,
+    "berat_gram": 8604,
+    "deskripsi": "Deskripsi singkat untuk Modern Meja 0492 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 493,
+    "nama_produk": "Vintage Jaket 0493",
+    "kategori": "Fashion Wanita",
+    "harga": 2146392.44,
+    "stok": 292,
+    "berat_gram": 5579,
+    "deskripsi": "Deskripsi singkat untuk Vintage Jaket 0493 dari kategori Fashion Wanita.",
+    "tersedia": true
+  },
+  {
+    "id": 494,
+    "nama_produk": "Wireless TV 0494",
+    "kategori": "Fashion Anak",
+    "harga": 14870515.0,
+    "stok": 385,
+    "berat_gram": 14356,
+    "deskripsi": "Deskripsi singkat untuk Wireless TV 0494 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 495,
+    "nama_produk": "Gaming Printer 0495",
+    "kategori": "Fashion Pria",
+    "harga": 3219678.85,
+    "stok": 29,
+    "berat_gram": 4624,
+    "deskripsi": "Deskripsi singkat untuk Gaming Printer 0495 dari kategori Fashion Pria.",
+    "tersedia": true
+  },
+  {
+    "id": 496,
+    "nama_produk": "Modern Printer 0496",
+    "kategori": "Kesehatan",
+    "harga": 2882327.58,
+    "stok": 104,
+    "berat_gram": 14552,
+    "deskripsi": "Deskripsi singkat untuk Modern Printer 0496 dari kategori Kesehatan.",
+    "tersedia": true
+  },
+  {
+    "id": 497,
+    "nama_produk": "Classic Jam 0497",
+    "kategori": "Rumah Tangga",
+    "harga": 391003.92,
+    "stok": 82,
+    "berat_gram": 5650,
+    "deskripsi": "Deskripsi singkat untuk Classic Jam 0497 dari kategori Rumah Tangga.",
+    "tersedia": true
+  },
+  {
+    "id": 498,
+    "nama_produk": "Smart Jaket 0498",
+    "kategori": "Fashion Anak",
+    "harga": 10982252.94,
+    "stok": 439,
+    "berat_gram": 14615,
+    "deskripsi": "Deskripsi singkat untuk Smart Jaket 0498 dari kategori Fashion Anak.",
+    "tersedia": true
+  },
+  {
+    "id": 499,
+    "nama_produk": "Pro Sepatu 0499",
+    "kategori": "Mainan & Hobi",
+    "harga": 12102778.5,
+    "stok": 264,
+    "berat_gram": 324,
+    "deskripsi": "Deskripsi singkat untuk Pro Sepatu 0499 dari kategori Mainan & Hobi.",
+    "tersedia": true
+  },
+  {
+    "id": 500,
+    "nama_produk": "Classic Jaket 0500",
+    "kategori": "Makanan & Minuman",
+    "harga": 14049775.07,
+    "stok": 29,
+    "berat_gram": 5683,
+    "deskripsi": "Deskripsi singkat untuk Classic Jaket 0500 dari kategori Makanan & Minuman.",
+    "tersedia": true
+  }
+]
