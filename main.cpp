@@ -4,6 +4,7 @@
 #include <vector>
 #include <list>
 #include <ctype.h>
+#include <iomanip>
 #include "json.hpp"
 
 using namespace std;
@@ -33,8 +34,9 @@ struct Hash {
         return (x % BUCKET);
     }
 
-    void updateItem(node data) {
-        // later
+    void updateItem(node data, int key) {
+        deleteItem(key);
+        createItem(data);
     }
 
     void createItem(node data) {
@@ -44,27 +46,38 @@ struct Hash {
             if (data.id == item.id) {
                 char choice;
 
-                cout << "ID " << data.id << " already exists. Do you want to update it? (y/n): ";
+                cout << "ID " << data.id << " already exists. Do you want to update it? (y/n)" << endl << "> ";
                 cin >> choice;
 
                 choice = tolower(choice);
 
-                if (choice == 'y') { updateItem(data); }
-                else { cout << "Item not inserted." << endl; }
+                if (choice == 'y') { updateItem(data, index); }
+                else { cout << endl << "Item not inserted." << endl << endl; }
                 return;
             }
         }
         table[index].push_back(data);
     }
 
-    node* readItem(int key){
+    void readItem(int key){
         int index = hashFunction(key);
         list<node>::iterator i;
 
         for (i = table[index].begin(); i != table[index].end(); i++) {
-            if ((*i).id == key) return &(*i);
+            if ((*i).id == key) {
+                cout << "ID: " << (*i).id << endl;
+                cout << "Nama Produk: " << (*i).nama_produk << endl;
+                cout << "Kategori: " << (*i).kategori << endl;
+                cout << "Harga: Rp" << fixed << setprecision(2) << (*i).harga << endl;
+                cout << "Stok: " << (*i).stok << endl;
+                cout << "Berat: " << (*i).berat_gram << " gr" << endl;
+                cout << "Deskripsi: " << (*i).deskripsi << endl;
+                cout << "Tersedia: " << (((*i).tersedia) ? "Ya" : "Tidak") << endl << endl;
+                return;
+            }
         }
-        return nullptr;
+        cout << "Item not found!" << endl << endl;;
+        return;
     }
 
     void deleteItem(int key){
@@ -75,6 +88,7 @@ struct Hash {
             if ((*i).id == key) break;
         }
         if (i != table[index].end()) table[index].erase(i);
+        cout << endl;
     }
 };
 
@@ -84,8 +98,7 @@ int main() {
     ifstream file;
 
     while (true) {
-        cout << endl
-             << "CHOOSE THE SAMPLE:" << endl
+        cout << "CHOOSE THE SAMPLE:" << endl
              << "(a) 100 data" << endl
              << "(b) 500 data" << endl
              << "(c) 1000 data" << endl
@@ -104,15 +117,15 @@ int main() {
         }
 
         if (!file.is_open()) {
-            std::cerr << "Gagal membuka file JSON!" << std::endl;
+            cerr << "Gagal membuka file JSON!" << endl;
             return 1;
         }
         json data;
 
         try {
             file >> data;
-        } catch (const std::exception& e) {
-            std::cerr << "Error parsing JSON: " << e.what() << std::endl;
+        } catch (const exception& e) {
+            cerr << "Error parsing JSON: " << e.what() << endl;
             return 1;
         }
 
@@ -122,25 +135,45 @@ int main() {
                 temp.id = data[i]["id"];
                 temp.nama_produk = data[i]["nama_produk"];
                 temp.kategori = data[i]["kategori"];
-                temp.deskripsi = data[i]["deskripsi"];
                 temp.harga = data[i]["harga"];
                 temp.stok = data[i]["stok"];
                 temp.berat_gram = data[i]["berat_gram"];
+                temp.deskripsi = data[i]["deskripsi"];
                 temp.tersedia = data[i]["tersedia"];
                 h->createItem(temp);
             } catch (const std::exception& e) {
                 std::cerr << "Error processing item " << i << ": " << e.what() << std::endl;
                 continue;
             }
-        }
-        node* result = h->readItem(1);
+        }        
+        node bomb;
+        bomb.id = 1;
+        bomb.nama_produk = "a";
+        bomb.kategori = "a";
+        bomb.harga = 1.0;
+        bomb.stok = 1;
+        bomb.berat_gram = 1;
+        bomb.deskripsi = "aa";
+        bomb.tersedia = false;
 
-        if (result != nullptr) {
-            cout << "ID: " << result->id << endl;
-            cout << "Nama Produk: " << result->nama_produk << endl;
-        } else {
-            cout << "Item not found!" << endl;
-        }
-         file.close();
+        node wow;
+        wow.id = 1;
+        wow.nama_produk = "b";
+        wow.kategori = "b";
+        wow.harga = 2.0;
+        wow.stok = 2;
+        wow.berat_gram = 2;
+        wow.deskripsi = "bb";
+        wow.tersedia = true;
+
+        h->createItem(bomb);
+        h->readItem(bomb.id);
+        h->updateItem(wow, wow.id);
+        h->readItem(wow.id);
+        h->deleteItem(bomb.id);
+        h->readItem(bomb.id);
+        h->readItem(101);
+
+        file.close();
     }
 }
