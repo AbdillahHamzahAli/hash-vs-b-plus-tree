@@ -5,7 +5,9 @@
 #include <list>
 #include <ctype.h>
 #include <iomanip>
+#include <cmath>
 #include "json.hpp"
+#include <chrono>
 
 using namespace std;
 using json = nlohmann::json;
@@ -91,6 +93,18 @@ struct Hash {
         cout << endl;
     }
 };
+template<typename bench>
+
+void chronoBench(bench start, bench end, int totalData) {
+    chrono::duration<double, milli> timeElapsed = end - start;
+    double opsPerSec = (totalData * 1000.0) / timeElapsed.count();
+
+    cout << "------------ChronoBench-----------" << endl;
+    cout << "| Total ops  : " << setw(9) << totalData << setw(10) << "|" << endl;
+    cout << "| Total time : " << setw(9) << timeElapsed.count() << " ms" << setw(7) << "|" << endl;
+    cout << "| Throughput : " << setw(9) << static_cast<int>(floor(opsPerSec)) << " ops/sec" << setw(2) << "|" << endl;
+    cout << "----------------------------------" << endl << endl;
+}
 
 int main() {
     char chooseCase;
@@ -117,7 +131,7 @@ int main() {
         }
 
         if (!file.is_open()) {
-            cerr << "Gagal membuka file JSON!" << endl;
+            cerr << "Failed to open JSON file!" << endl;
             return 1;
         }
         json data;
@@ -128,6 +142,8 @@ int main() {
             cerr << "Error parsing JSON: " << e.what() << endl;
             return 1;
         }
+
+        auto benchStart = chrono::high_resolution_clock::now();
 
         for(int i = 0; i < data.size(); i++) {
             try {
@@ -145,7 +161,11 @@ int main() {
                 std::cerr << "Error processing item " << i << ": " << e.what() << std::endl;
                 continue;
             }
-        }        
+        }      
+        auto benchEnd = chrono::high_resolution_clock::now();
+        chronoBench(benchStart, benchEnd, data.size());
+        
+        // WIP AFTER THIS COMMENT
         node bomb;
         bomb.id = 1;
         bomb.nama_produk = "a";
