@@ -108,6 +108,91 @@ void chronoBench(bench start, bench end, int totalData, string method) {
     cout << "----------------------------------" << endl << endl;
 }
 
+void hashCreate(Hash* h, int totalData) {
+    int id,
+        stok,
+        berat_gram;
+    float harga;
+    string nama_produk,
+           kategori,
+           deskripsi;
+    bool tersedia;
+    node add;
+
+    cout << "ID (bulat)      : ";
+    cin >> id;
+    add.id = id;
+    cout << "Nama Produk     : ";
+    cin >> nama_produk;
+    add.nama_produk = nama_produk;
+    cout << "Kategori        : ";
+    cin >> kategori;
+    add.kategori = kategori;
+    cout << "Harga (desimal) : ";
+    cin >> harga;
+    add.harga = harga;
+    cout << "Stok (bulat)    : ";
+    cin >> stok;
+    add.stok = stok;
+    cout << "Berat (gram)    : ";
+    cin >> berat_gram;
+    add.berat_gram = berat_gram;
+    cout << "Deskripsi       : ";
+    cin >> deskripsi;
+    add.deskripsi = deskripsi;
+    cout << "Tersedia (0/1)  : ";
+    cin >> tersedia;
+    cout << endl;
+    add.tersedia = tersedia;
+
+    auto benchStart = chrono::high_resolution_clock::now();
+    h->createItem(add);
+    auto benchEnd = chrono::high_resolution_clock::now();
+    chronoBench(benchStart, benchEnd, totalData, "hash-map");
+}
+
+void hashRead(Hash* h, int totalData) {
+    char searchMode;
+    int id;
+    
+    cout << "CHOOSE SEARCH MODE:" << endl
+         << "(1) Single data" << endl
+         << "(2) Data range" << endl
+         << "(other) cancel" << endl
+         << "> ";
+    cin >> searchMode;
+
+    if (searchMode == '1') {
+        cin >> id;
+
+        auto benchStart = chrono::high_resolution_clock::now();
+        h->readItem(id);
+        auto benchEnd = chrono::high_resolution_clock::now();
+        chronoBench(benchStart, benchEnd, totalData, "hash-map");
+    } else if (searchMode == '2') {
+        // NOT YET DONE
+        auto benchStart = chrono::high_resolution_clock::now();
+        
+        auto benchEnd = chrono::high_resolution_clock::now();
+        chronoBench(benchStart, benchEnd, totalData, "hash-map");
+    }
+    return;
+}
+
+void hashUpdate(Hash* h, int totalData) {
+    auto benchStart = chrono::high_resolution_clock::now();
+    
+    auto benchEnd = chrono::high_resolution_clock::now();
+    chronoBench(benchStart, benchEnd, totalData, "hash-map");
+}
+
+void hashDelete(Hash* h, int totalData) {
+    auto benchStart = chrono::high_resolution_clock::now();
+    
+    auto benchEnd = chrono::high_resolution_clock::now();
+    chronoBench(benchStart, benchEnd, totalData, "hash-map");
+}
+
 int main() {
     char chooseCase;
     Hash* h = nullptr;
@@ -144,21 +229,20 @@ int main() {
             cerr << "Error parsing JSON: " << e.what() << endl;
             return 1;
         }
-
         auto benchStart = chrono::high_resolution_clock::now();
 
         for(int i = 0; i < data.size(); i++) {
             try {
-                node temp;
-                temp.id = data[i]["id"];
-                temp.nama_produk = data[i]["nama_produk"];
-                temp.kategori = data[i]["kategori"];
-                temp.harga = data[i]["harga"];
-                temp.stok = data[i]["stok"];
-                temp.berat_gram = data[i]["berat_gram"];
-                temp.deskripsi = data[i]["deskripsi"];
-                temp.tersedia = data[i]["tersedia"];
-                h->createItem(temp);
+                node parse;
+                parse.id = data[i]["id"];
+                parse.nama_produk = data[i]["nama_produk"];
+                parse.kategori = data[i]["kategori"];
+                parse.harga = data[i]["harga"];
+                parse.stok = data[i]["stok"];
+                parse.berat_gram = data[i]["berat_gram"];
+                parse.deskripsi = data[i]["deskripsi"];
+                parse.tersedia = data[i]["tersedia"];
+                h->createItem(parse);
             } catch (const std::exception& e) {
                 std::cerr << "Error processing item " << i << ": " << e.what() << std::endl;
                 continue;
@@ -166,36 +250,26 @@ int main() {
         }      
         auto benchEnd = chrono::high_resolution_clock::now();
         chronoBench(benchStart, benchEnd, data.size(), "hash-map");
-        
-        // WIP AFTER THIS COMMENT
-        node bomb;
-        bomb.id = 1;
-        bomb.nama_produk = "a";
-        bomb.kategori = "a";
-        bomb.harga = 1.0;
-        bomb.stok = 1;
-        bomb.berat_gram = 1;
-        bomb.deskripsi = "aa";
-        bomb.tersedia = false;
 
-        node wow;
-        wow.id = 1;
-        wow.nama_produk = "b";
-        wow.kategori = "b";
-        wow.harga = 2.0;
-        wow.stok = 2;
-        wow.berat_gram = 2;
-        wow.deskripsi = "bb";
-        wow.tersedia = true;
-
-        h->createItem(bomb);
-        h->readItem(bomb.id);
-        h->updateItem(wow, wow.id);
-        h->readItem(wow.id);
-        h->deleteItem(bomb.id);
-        h->readItem(bomb.id);
-        h->readItem(101);
-
-        file.close();
+        do {
+            cout << "WHICH CRUD OPERATION DO YOU WANT TO RUN?" << endl
+                 << "(1) Create" << endl
+                 << "(2) Read" << endl
+                 << "(3) Update" << endl
+                 << "(4) Delete" << endl
+                 << "(other) cancel" << endl
+                 << "> ";
+            cin >> chooseCase;
+            cout << endl;
+            
+            if (chooseCase == '1') hashCreate(h, data.size());
+            else if (chooseCase == '2') hashRead(h, data.size());    
+            else if (chooseCase == '3') hashUpdate(h, data.size());
+            else if (chooseCase == '4') hashDelete(h, data.size());
+            else {
+                cout << "No CRUD operation running, workflow is now closed." << endl << endl;
+                file.close();
+            }
+        } while ((chooseCase == '1') || (chooseCase == '2') || (chooseCase == '3') || (chooseCase == '4'));
     }
 }
