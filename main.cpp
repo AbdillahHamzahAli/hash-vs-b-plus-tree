@@ -34,11 +34,6 @@ struct Hash {
         return (x % BUCKET);
     }
 
-    void updateItem(node data, int key) {
-        deleteItem(key);
-        createItem(data);
-    }
-
     void createItem(node data) {
         int index = hashFunction(data.id);
 
@@ -78,6 +73,11 @@ struct Hash {
         }
         cout << "Item not found!" << endl << endl;;
         return;
+    }
+
+    void updateItem(node data, int key) {
+        deleteItem(key);
+        createItem(data);
     }
 
     void deleteItem(int key){
