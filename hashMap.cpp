@@ -4,10 +4,11 @@
 #include <vector>
 #include <list>
 #include <ctype.h>
+#include <chrono>
+#include <string>
 #include <iomanip>
 #include <cmath>
 #include "json.hpp"
-#include <chrono>
 
 using namespace std;
 using json = nlohmann::json;
@@ -95,11 +96,12 @@ struct Hash {
 };
 template<typename bench>
 
-void chronoBench(bench start, bench end, int totalData) {
+void chronoBench(bench start, bench end, int totalData, string method) {
     chrono::duration<double, milli> timeElapsed = end - start;
     double opsPerSec = (totalData * 1000.0) / timeElapsed.count();
 
     cout << "------------ChronoBench-----------" << endl;
+    cout << "| Method     : " << setw(9) << method << setw(10) << "|" << endl;
     cout << "| Total ops  : " << setw(9) << totalData << setw(10) << "|" << endl;
     cout << "| Total time : " << setw(9) << timeElapsed.count() << " ms" << setw(7) << "|" << endl;
     cout << "| Throughput : " << setw(9) << static_cast<int>(floor(opsPerSec)) << " ops/sec" << setw(2) << "|" << endl;
@@ -163,7 +165,7 @@ int main() {
             }
         }      
         auto benchEnd = chrono::high_resolution_clock::now();
-        chronoBench(benchStart, benchEnd, data.size());
+        chronoBench(benchStart, benchEnd, data.size(), "hash-map");
         
         // WIP AFTER THIS COMMENT
         node bomb;
