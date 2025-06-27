@@ -5,15 +5,14 @@
 #include <queue>
 #include <chrono>
 #include <fstream>
-#include <iomanip> // Untuk setw
-#include "json.hpp" // Pastikan file json.hpp ada di direktori yang sama
+#include <iomanip>
+#include "json.hpp"
 
 using namespace std;
 using json = nlohmann::json;
 
 #define ORDER 4
 
-// Struct untuk data produk
 struct Product {
     int id,
         stok,
@@ -24,7 +23,6 @@ struct Product {
            deskripsi;
     bool tersedia;
     
-    // Fungsi untuk mencetak detail produk
     void print() const {
         cout << "-------------------------" << endl;
         cout << "ID: " << id << endl;
@@ -39,7 +37,6 @@ struct Product {
     }
 };
 
-// Struct tunggal yang bisa menjadi Leaf Node atau Internal Node
 struct BPTreeNode {
     bool is_leaf;
     int *keys;
@@ -52,7 +49,6 @@ struct BPTreeNode {
     BPTreeNode* next;
 };
 
-// Struct utama yang merepresentasikan pohon
 struct BPlusTree {
     BPTreeNode* root;
     int order;
@@ -82,13 +78,12 @@ void remove_entry_from_node(BPTreeNode* node, int key, BPTreeNode* child_to_remo
 void handle_underflow(BPlusTree* tree, BPTreeNode* node);
 void chronoBench(chrono::high_resolution_clock::time_point start, chrono::high_resolution_clock::time_point end, int totalData);
 
-// --- FUNGSI INTERAKTIF UNTUK MENU CRUD ---
+// --- FUNGSI UNTUK MENU CRUD ---
 void insert_data(BPlusTree* tree);
 void read_data(BPlusTree* tree);
 void update_data_interactive(BPlusTree* tree);
 void delete_data(BPlusTree* tree);
 
-// --- IMPLEMENTASI FUNGSI (Tidak berubah dari kode Anda, hanya ditambahkan fungsi baru) ---
 BPlusTree* create_bplustree() {
     BPlusTree* tree = new BPlusTree();
     tree->root = nullptr;
@@ -453,9 +448,8 @@ void chronoBench(chrono::high_resolution_clock::time_point start, chrono::high_r
     cout << "----------------------------------" << endl << endl;
 }
 
-// --- IMPLEMENTASI FUNGSI INTERAKTIF BARU ---
+// --- IMPLEMENTASI FUNGSI MENU ---
 
-// Fungsi untuk menangani input Create dari pengguna
 void insert_data(BPlusTree* tree, int totalData) {
     int id, stok, berat_gram;
     float harga;
@@ -481,7 +475,6 @@ void insert_data(BPlusTree* tree, int totalData) {
     cout << "Produk baru dengan ID " << id << " berhasil ditambahkan." << endl;
 }
 
-// Fungsi untuk menangani input Read dari pengguna
 void read_data(BPlusTree* tree, int totalData) {
     int id;
     cout << "Masukkan ID Produk yang ingin dicari: ";
@@ -502,7 +495,6 @@ void read_data(BPlusTree* tree, int totalData) {
 
 }
 
-// Fungsi untuk menangani input Update dari pengguna
 void update_data_interactive(BPlusTree* tree, int totalData) {
     int id, stok, berat_gram;
     float harga;
@@ -531,7 +523,6 @@ void update_data_interactive(BPlusTree* tree, int totalData) {
     cout << "Produk dengan ID " << id << " berhasil diupdate." << endl;
 }
 
-// Fungsi untuk menangani input Delete dari pengguna
 void delete_data(BPlusTree* tree, int totalData) {
     int id;
     cout << "Masukkan ID Produk yang ingin dihapus: ";
@@ -550,12 +541,10 @@ void delete_data(BPlusTree* tree, int totalData) {
 }
 
 
-// --- FUNGSI MAIN YANG DIPERBAIKI ---
 int main() {
     char chooseCase;
     ifstream file;
     
-    // Loop utama program
     while(true){
         BPlusTree* tree = create_bplustree();
 
@@ -621,7 +610,6 @@ int main() {
             cout << "Pohon kosong dibuat. Silakan gunakan operasi Create." << endl;
         }
 
-        // Loop untuk operasi CRUD setelah data dimuat
         do {
             cout << "\n--- MENU OPERASI CRUD ---" << endl
                  << "(1) Create (Tambah Produk)" << endl
